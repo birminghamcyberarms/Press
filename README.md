@@ -31,9 +31,10 @@
 | 22 | Diario con Vos | Ransomware: Akira vs Papel Prensa SA | Spanish | https://www.diarioconvos.com/2023/08/17/ataque-hacker-al-pami-piden-735-mil-dolares-a-cambio-de-no-publicar-datos-de-millones-de-usuarios/ |
 | 23 | Diario Clarín | Ransomware: Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-ciberdelincuentes-publican-informacion-robada-historias-clinicas-estudios-datos-personales_0_oVEAPipTS0.html |
 | 24 | La Voz | Ransomware: Rhysida vs PAMI | Spanish | https://www.lavoz.com.ar/politica/hackeo-al-pami-ciberdelincuentes-publicaron-la-informacion-robada/ |
-| 25 | Diario San Rafael | Ransomware: Rhysida vs PAMI | Spanish | https://diariosanrafael.com.ar/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ || 24 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-que-saben-y-como-fueron-los-pasos-que-dieron-los-hackers/ |
+| 25 | Diario San Rafael | Ransomware: Rhysida vs PAMI | Spanish | https://diariosanrafael.com.ar/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ || 24 | La Opinión Semanario | Ransomware: Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-que-saben-y-como-fueron-los-pasos-que-dieron-los-hackers/ |
 | 26 | Coin Telegraph | Ransomware: Rhysida vs PAMI | Spanish | https://es.cointelegraph.com/news/criminal-group-exposes-sensitive-pami-data-after-not-receiving-demanded-ransom |
 | 27 | Criptonoticias | Hackers publican datos de ciudadanos y del Estado Argentino | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hackers-roban-publican-datos-ciudadanos-estado-argentino/ |
+| 28 | Radio Mitre | Ransomware: Rhysida vs PAMI | Spanish | https://radiomitre.cienradios.com/sociedad/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
