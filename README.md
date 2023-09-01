@@ -39,6 +39,7 @@
 | 29 | Diario Clarín | Ransomware: Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/alerta-posibles-estafas-hackeo-pami-protegerse-prevenir-enganos_0_z6JIeyc6lA.html |
 | 30 | El Observador | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/hackearon-informacion-del-estudio-juridico-guyer-regules-y-piden-us-300-000-de-rescate-202391131453 |
 | 31 | El País | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elpais.com.uy/negocios/intentaron-hackear-al-estudio-guyer-regules-expertos-investigan-si-hubo-robo-de-informacion |
+| 32 | Teledoce | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.teledoce.com/telemundo/nacionales/hackearon-al-estudio-juridico-guyerregules-y-reclaman-us-300-000-de-rescate/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
