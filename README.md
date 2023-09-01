@@ -40,6 +40,10 @@
 | 30 | El Observador | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/hackearon-informacion-del-estudio-juridico-guyer-regules-y-piden-us-300-000-de-rescate-202391131453 |
 | 31 | El País | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elpais.com.uy/negocios/intentaron-hackear-al-estudio-guyer-regules-expertos-investigan-si-hubo-robo-de-informacion |
 | 32 | Teledoce | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.teledoce.com/telemundo/nacionales/hackearon-al-estudio-juridico-guyerregules-y-reclaman-us-300-000-de-rescate/ |
+| 33 | Subrayado | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.subrayado.com.uy/estudio-juridico-fue-victima-ciberataque-y-hackers-exigen-usd-300000-no-divulgar-informacion-n924793 |
+| 34 | La Diaria | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://ladiaria.com.uy/politica/articulo/2023/9/hackearon-informacion-del-estudio-juridico-guyer-y-regules-y-piden-rescate-la-empresa-ya-presento-la-denuncia/ |
+| 35 | Montevideo Portal | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Guyer--Regules-sufrio-intento-de-ciberataque-aunque-sin-evidencia-de-informacion-robada-uc864335 |
+| 36 | Caras y Caretas | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.carasycaretas.com.uy/sociedad/hackearon-el-estudio-guyer-y-regules-e-intentaron-robar-archivos-confidenciales-n66084 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
