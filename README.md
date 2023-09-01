@@ -37,6 +37,7 @@
 | 27 | Criptonoticias | Hackers publican datos de ciudadanos y del Estado Argentino | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hackers-roban-publican-datos-ciudadanos-estado-argentino/ |
 | 28 | Radio Mitre | Ransomware: Rhysida vs PAMI | Spanish | https://radiomitre.cienradios.com/sociedad/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
 | 29 | Diario Clarín | Ransomware: Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/alerta-posibles-estafas-hackeo-pami-protegerse-prevenir-enganos_0_z6JIeyc6lA.html |
+| 30 | El Observador | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/hackearon-informacion-del-estudio-juridico-guyer-regules-y-piden-us-300-000-de-rescate-202391131453 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
