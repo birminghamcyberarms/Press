@@ -44,6 +44,7 @@
 | 34 | La Diaria | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://ladiaria.com.uy/politica/articulo/2023/9/hackearon-informacion-del-estudio-juridico-guyer-y-regules-y-piden-rescate-la-empresa-ya-presento-la-denuncia/ |
 | 35 | Montevideo Portal | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Guyer--Regules-sufrio-intento-de-ciberataque-aunque-sin-evidencia-de-informacion-robada-uc864335 |
 | 36 | Caras y Caretas | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.carasycaretas.com.uy/sociedad/hackearon-el-estudio-guyer-y-regules-e-intentaron-robar-archivos-confidenciales-n66084 |
+| 37 | El Observador | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/guyer-y-regules-ya-habia-sufrido-ciberataques-antes-del-ultimo-hackeo-20239616530 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
