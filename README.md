@@ -47,6 +47,7 @@
 | 37 | El Observador | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/guyer-y-regules-ya-habia-sufrido-ciberataques-antes-del-ultimo-hackeo-20239616530 |
 | 38 | SecOps  | Ransomware: Lockbit vs Guyer (UY) | Spanish | https://juanbrodersen.substack.com/i/136814148/lockbit-muy-activo-y-con-victimas-latinoamericanas |
 | 38 | Diario Clarín  | Ransomware: Ransom House vs IFX | Spanish | https://www.clarin.com/tecnologia/ifx-networks-ciberataque-multinacional-afecta-pymes-grandes-empresas-argentinas_0_73JfZR8VLr.html |
+| 39 | EconoJournal | DataBreach: Enargas| Spanish | https://econojournal.com.ar/2023/09/cibercrimen-el-enargas-recuperar-datos/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
