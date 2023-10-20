@@ -49,6 +49,7 @@
 | 38 | Diario Clarín  | Ransomware: Ransom House vs IFX | Spanish | https://www.clarin.com/tecnologia/ifx-networks-ciberataque-multinacional-afecta-pymes-grandes-empresas-argentinas_0_73JfZR8VLr.html |
 | 39 | EconoJournal | DataBreach: Enargas| Spanish | https://econojournal.com.ar/2023/09/cibercrimen-el-enargas-recuperar-datos/ |
 | 40 | SecOps | DataBreach: Nosis & Colegio de Abogados Bahía Blanca | Spanish | https://juanbrodersen.substack.com/p/el-lado-ciber-de-la-guerra-entre |
+| 41 | SecOps | Ransomware: Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/p/contrasenas-las-mas-usadas-por-los |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
