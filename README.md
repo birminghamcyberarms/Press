@@ -50,6 +50,7 @@
 | 39 | EconoJournal | DataBreach: Enargas| Spanish | https://econojournal.com.ar/2023/09/cibercrimen-el-enargas-recuperar-datos/ |
 | 40 | SecOps | DataBreach: Nosis & Colegio de Abogados Bahía Blanca | Spanish | https://juanbrodersen.substack.com/p/el-lado-ciber-de-la-guerra-entre |
 | 41 | SecOps | Ransomware: Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/p/contrasenas-las-mas-usadas-por-los |
+| 42 | Dark News | Ransomware: Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/i/138177384/filtran-informacion-interna-del-hospital-italiano |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
