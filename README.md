@@ -52,6 +52,7 @@
 | 41 | SecOps | Ransomware: Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/p/contrasenas-las-mas-usadas-por-los |
 | 42 | Dark News | Ransomware: Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/i/138177384/filtran-informacion-interna-del-hospital-italiano |
 | 43 | Dark News | Parlamento Uruguayo Leak | Spanish | https://juanbrodersen.substack.com/i/138177384/el-parlamento-de-uruguay-bajo-ataque |
+| 44 | El Cronista / InfoTechnology | Ransomware: Medusa vs Jockey Club | Spanish | https://www.cronista.com/infotechnology/actualidad/atacaron-un-prestigioso-club-de-buenos-aires-piden-un-rescate-de-300-000/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
