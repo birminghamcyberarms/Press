@@ -54,6 +54,7 @@
 | 43 | Dark News | Parlamento Uruguayo Leak | Spanish | https://juanbrodersen.substack.com/i/138177384/el-parlamento-de-uruguay-bajo-ataque |
 | 44 | El Cronista / InfoTechnology | Ransomware: Medusa vs Jockey Club | Spanish | https://www.cronista.com/infotechnology/actualidad/atacaron-un-prestigioso-club-de-buenos-aires-piden-un-rescate-de-300-000/ |
 | 45 | Dark News | Ransomware: Medusa vs Jockey Club | Spanish | https://www.brodersendarknews.com/i/138500059/jockey-club-y-avalian-las-dos-victimas-argentinas-de-la-semana-que-se-sabe |
+| 46 | Dark News | 90k compromised credentials | Spanish | https://www.brodersendarknews.com/p/publican-un-lote-de-90-mil-credenciales |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
