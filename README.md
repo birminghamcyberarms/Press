@@ -55,6 +55,7 @@
 | 44 | El Cronista / InfoTechnology | Ransomware: Medusa vs Jockey Club | Spanish | https://www.cronista.com/infotechnology/actualidad/atacaron-un-prestigioso-club-de-buenos-aires-piden-un-rescate-de-300-000/ |
 | 45 | Dark News | Ransomware: Medusa vs Jockey Club | Spanish | https://www.brodersendarknews.com/i/138500059/jockey-club-y-avalian-las-dos-victimas-argentinas-de-la-semana-que-se-sabe |
 | 46 | Dark News | 90k compromised credentials | Spanish | https://www.brodersendarknews.com/p/publican-un-lote-de-90-mil-credenciales |
+| 47 | El Cronista | About Data Protection Officers | Spanish | https://elcronista.pressreader.com/article/281822878566588 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
