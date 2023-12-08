@@ -57,6 +57,7 @@
 | 46 | Dark News | 90k compromised credentials | Spanish | https://www.brodersendarknews.com/p/publican-un-lote-de-90-mil-credenciales |
 | 47 | El Cronista | About Data Protection Officers | Spanish | https://elcronista.pressreader.com/article/281822878566588 |
 | 48 | InfoTechnology | About Data Protection Officers | Spanish | https://www.cronista.com/infotechnology/actualidad/cual-es-el-perfil-que-todas-las-empresas-argentinas-estan-buscando-hoy-no-son-programadores/ |
+| 49 | Dark News | MeFiltraron Israel (DC5411 Collaboration) | Spanish | https://www.brodersendarknews.com/i/139429041/me-filtraron-israel-hamas-entre-ataques-de-defacing-y-ddos |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
