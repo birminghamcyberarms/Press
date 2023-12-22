@@ -58,6 +58,10 @@
 | 47 | El Cronista | About Data Protection Officers | Spanish | https://elcronista.pressreader.com/article/281822878566588 |
 | 48 | InfoTechnology | About Data Protection Officers | Spanish | https://www.cronista.com/infotechnology/actualidad/cual-es-el-perfil-que-todas-las-empresas-argentinas-estan-buscando-hoy-no-son-programadores/ |
 | 49 | Dark News | MeFiltraron Israel (DC5411 Collaboration) | Spanish | https://www.brodersendarknews.com/i/139429041/me-filtraron-israel-hamas-entre-ataques-de-defacing-y-ddos |
+| 50 | Dark News | LAPSUS$ | Spanish | https://www.brodersendarknews.com/i/139932957/condenan-a-un-hacker-de-lapsus-a-pasar-toda-su-vida-en-un-hospital-psiquiatrico |
+| 51 | Dark News | FBI vs BlackCat | Spanish | https://www.brodersendarknews.com/i/139932957/el-fbi-incauto-el-sitio-de-black-cat-alphv |
+| 52 | Diario Clarín | LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/historia-adolescente-hackeo-gigantes-tech-condenado-vida-hospital-psiquiatrico_0_pGrA2JAy7H.html |
+
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
