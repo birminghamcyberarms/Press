@@ -62,7 +62,7 @@
 | 51 | Dark News | FBI vs BlackCat | Spanish | https://www.brodersendarknews.com/i/139932957/el-fbi-incauto-el-sitio-de-black-cat-alphv |
 | 52 | Diario Clarín | LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/historia-adolescente-hackeo-gigantes-tech-condenado-vida-hospital-psiquiatrico_0_pGrA2JAy7H.html |
 | 53 | El Observador | Uruguay: 2023 Cybercrime Recap | Spanish | https://www.elobservador.com.uy/nota/hackeos-en-uruguay-en-2023-asi-fueron-las-filtraciones-que-desnudaron-fallas-de-ciberseguridad-202312211540 |
-
+| 54 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
