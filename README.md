@@ -63,6 +63,7 @@
 | 52 | Diario Clarín | LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/historia-adolescente-hackeo-gigantes-tech-condenado-vida-hospital-psiquiatrico_0_pGrA2JAy7H.html |
 | 53 | El Observador | Uruguay: 2023 Cybercrime Recap | Spanish | https://www.elobservador.com.uy/nota/hackeos-en-uruguay-en-2023-asi-fueron-las-filtraciones-que-desnudaron-fallas-de-ciberseguridad-202312211540 |
 | 54 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
+| 55 | Diario Clarín | Payoneer Hacked | Spanish | https://www.clarin.com/tecnologia/vacian-cuentas-argentinas-payoneer-aplicacion-cobrar-dolares-peligrosa-medida-seguridad-habilito-hackeo_0_kbvzImoQVQ.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
