@@ -65,6 +65,7 @@
 | 54 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
 | 55 | Diario Clarín | Payoneer Hacked | Spanish | https://www.clarin.com/tecnologia/vacian-cuentas-argentinas-payoneer-aplicacion-cobrar-dolares-peligrosa-medida-seguridad-habilito-hackeo_0_kbvzImoQVQ.html |
 | 56 | Diario Perfil | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial.phtml |
+| 57 | Marca | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.marcainformativacba.com/cordoba/la-justicia-investiga-el-hackeo-y-filtracion-del-legajo-una-funcionaria-judicial-cordoba-n38504 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
