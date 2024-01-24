@@ -66,6 +66,13 @@
 | 55 | Diario Clarín | Payoneer Hacked | Spanish | https://www.clarin.com/tecnologia/vacian-cuentas-argentinas-payoneer-aplicacion-cobrar-dolares-peligrosa-medida-seguridad-habilito-hackeo_0_kbvzImoQVQ.html |
 | 56 | Diario Perfil | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial.phtml |
 | 57 | Marca | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.marcainformativacba.com/cordoba/la-justicia-investiga-el-hackeo-y-filtracion-del-legajo-una-funcionaria-judicial-cordoba-n38504 |
+| 58 | Canal C | DataBreach: Poder Judicial de Córdoba | Spanish | https://canalc.com.ar/filtracion-de-datos-del-poder-judicial-de-cordoba-expusieron-detalles-de-una-funcionaria-tras-un-hackeo/ |
+| 59 | Nuevo Enfoque Urbano | DataBreach: Poder Judicial de Córdoba | Spanish | https://nuevoenfoqueurbano.com.ar/hackearon-y-publicaron-la-cuenta-de-una-funcionaria-judicial-en-cordoba/ |
+| 60 | La Voz | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lavoz.com.ar/ciudadanos/hackearon-y-publicaron-la-cuenta-de-una-funcionaria-judicial-en-cordoba/ |
+| 61 | Actualidad | DataBreach: Poder Judicial de Córdoba | Spanish | https://actualidad.com.ar/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial/ |
+| 62 | 12 TV | DataBreach: Poder Judicial de Córdoba | Spanish | https://eldoce.tv/actualidad/2024/01/23/filtraron-informacion-de-una-funcionaria-del-poder-judicial-de-cordoba |
+| 63 | La Popu | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lapopu.com.ar/noticia/noticias/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
+| 64 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
