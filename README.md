@@ -74,6 +74,7 @@
 | 63 | La Popu | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lapopu.com.ar/noticia/noticias/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 64 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 65 | Diario Perfil | DataBreach: Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
+| 66 | Dark News | Cactus vs GEOCOM | Spanish | https://www.brodersendarknews.com/i/141138846/geocom-publicaron-los-datos-tras-el-ransomware-del-grupo-cactus |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
