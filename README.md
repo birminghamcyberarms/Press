@@ -79,6 +79,7 @@
 | 68 | La Voz | AFIP Stealer Logs compilation | Spanish | https://www.lavoz.com.ar/tecnologia/alertan-de-una-filtracion-de-claves-fiscales-de-afip-recomiendan-a-usuarios-cambiar-contrasenas/?register=google |
 | 69 | Errepar | AFIP Stealer Logs compilation | Spanish | https://documento.errepar.com/actualidad/alerta-clave-fiscal-afip-20240214122944465 |
 | 70 | Diario con Vos | AFIP Stealer Logs compilation | Spanish | https://www.diarioconvos.com/2024/02/14/se-filtraron-miles-de-claves-fiscales-de-la-afip-y-llamaron-a-cambiarla/ |
+| 71 | Página 12 | AFIP Stealer Logs compilation | Spanish | https://www.pagina12.com.ar/712589-se-filtraron-mas-80-mil-claves-fiscales-de-afip-las-recomend |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
