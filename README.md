@@ -75,6 +75,10 @@
 | 64 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 65 | Diario Perfil | DataBreach: Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
 | 66 | Dark News | Cactus vs GEOCOM | Spanish | https://www.brodersendarknews.com/i/141138846/geocom-publicaron-los-datos-tras-el-ransomware-del-grupo-cactus |
+| 67 | La Opinión Austral | AFIP Stealer Logs compilation | Spanish | https://laopinionaustral.com.ar/argentina/alerta-se-filtraron-mas-de-80-mil-claves-de-la-afip-en-la-darknet-y-advierten-cambiar-las-contrasenas-382476.html |
+| 68 | La Voz | AFIP Stealer Logs compilation | Spanish | https://www.lavoz.com.ar/tecnologia/alertan-de-una-filtracion-de-claves-fiscales-de-afip-recomiendan-a-usuarios-cambiar-contrasenas/?register=google |
+| 69 | Errepar | AFIP Stealer Logs compilation | Spanish | https://documento.errepar.com/actualidad/alerta-clave-fiscal-afip-20240214122944465 |
+| 70 | Diario con Vos | AFIP Stealer Logs compilation | Spanish | https://www.diarioconvos.com/2024/02/14/se-filtraron-miles-de-claves-fiscales-de-la-afip-y-llamaron-a-cambiarla/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
