@@ -81,6 +81,10 @@
 | 70 | Diario con Vos | AFIP Stealer Logs compilation | Spanish | https://www.diarioconvos.com/2024/02/14/se-filtraron-miles-de-claves-fiscales-de-la-afip-y-llamaron-a-cambiarla/ |
 | 71 | Página 12 | AFIP Stealer Logs compilation | Spanish | https://www.pagina12.com.ar/712589-se-filtraron-mas-80-mil-claves-fiscales-de-afip-las-recomend |
 | 72 | Infobae | AFIP Stealer Logs compilation | Spanish | https://www.infobae.com/economia/2024/02/14/se-filtraron-mas-de-80000-claves-de-la-afip-que-hacer-para-protegerse/ |
+| 73 | El Ciudadano | AFIP Stealer Logs compilation | Spanish | https://www.elciudadanoweb.com/filtraron-unas-82-000-claves-fiscales-de-afip-en-ciberataque-que-no-afecto-al-organismo-recaudador/ |
+| 74 | CBA 24 | AFIP Stealer Logs compilation | Spanish | https://www.cba24n.com.ar/argentina/afip--se-filtraron-miles-de-claves-fiscales-y-recomiendan-modificarla-_a65cd1bbf260ab20bb346fac0 |
+| 75 | TN | AFIP Stealer Logs compilation | Spanish | https://tn.com.ar/tecno/novedades/2024/02/14/publicaron-en-la-dark-web-82000-claves-fiscales-de-afip-como-cambiar-la-contrasena-para-estar-a-salvo/ |
+| 76 | 0221 | AFIP Stealer Logs compilation | Spanish | https://www.0221.com.ar/nacional/denuncian-que-se-filtraron-mas-80000-claves-fiscales-afip-n87670 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
