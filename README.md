@@ -85,6 +85,8 @@
 | 74 | CBA 24 | AFIP Stealer Logs compilation | Spanish | https://www.cba24n.com.ar/argentina/afip--se-filtraron-miles-de-claves-fiscales-y-recomiendan-modificarla-_a65cd1bbf260ab20bb346fac0 |
 | 75 | TN | AFIP Stealer Logs compilation | Spanish | https://tn.com.ar/tecno/novedades/2024/02/14/publicaron-en-la-dark-web-82000-claves-fiscales-de-afip-como-cambiar-la-contrasena-para-estar-a-salvo/ |
 | 76 | 0221 | AFIP Stealer Logs compilation | Spanish | https://www.0221.com.ar/nacional/denuncian-que-se-filtraron-mas-80000-claves-fiscales-afip-n87670 |
+| 77 | Cripto Noticias | AFIP Stealer Logs compilation | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/claves-fiscales-ciudadanos-argentinos-dark-web-afip/ |
+| 78 | El Destape | AFIP Stealer Logs compilation | Spanish | https://www.eldestapeweb.com/atr/afip/peligran-tus-datos-de-afip-robaron-mas-de-80-000-claves-y-recomiendan-protegerse-asi-20242141650 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
