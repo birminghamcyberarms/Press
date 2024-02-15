@@ -89,6 +89,7 @@
 | 78 | El Destape | AFIP Stealer Logs compilation | Spanish | https://www.eldestapeweb.com/atr/afip/peligran-tus-datos-de-afip-robaron-mas-de-80-000-claves-y-recomiendan-protegerse-asi-20242141650 |
 | 79 | iProUP | AFIP Stealer Logs compilation | Spanish | https://www.iproup.com/innovacion/45887-afip-hackeo-filtraci%C3%B3n-riesgo-tr%C3%A1mites-impuestos-protegerse |
 | 80 | El Observador | DataBreach: Intendencia de Flores | Spanish | https://www.elobservador.com.uy/nota/hackearon-a-la-intendencia-de-flores-y-ahora-un-grupo-publico-datos-confidenciales-202421418416 |
+| 81 | iProfesional | AFIP Stealer Logs compilation | Spanish | https://www.iprofesional.com/tecnologia/399594-hackeo-afip-como-saber-si-robaron-clave-fiscal |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
