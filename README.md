@@ -87,6 +87,7 @@
 | 76 | 0221 | AFIP Stealer Logs compilation | Spanish | https://www.0221.com.ar/nacional/denuncian-que-se-filtraron-mas-80000-claves-fiscales-afip-n87670 |
 | 77 | Cripto Noticias | AFIP Stealer Logs compilation | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/claves-fiscales-ciudadanos-argentinos-dark-web-afip/ |
 | 78 | El Destape | AFIP Stealer Logs compilation | Spanish | https://www.eldestapeweb.com/atr/afip/peligran-tus-datos-de-afip-robaron-mas-de-80-000-claves-y-recomiendan-protegerse-asi-20242141650 |
+| 79 | iProUP | AFIP Stealer Logs compilation | Spanish | https://www.iproup.com/innovacion/45887-afip-hackeo-filtraci%C3%B3n-riesgo-tr%C3%A1mites-impuestos-protegerse |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
