@@ -92,6 +92,7 @@
 | 81 | iProfesional | AFIP Stealer Logs compilation | Spanish | https://www.iprofesional.com/tecnologia/399594-hackeo-afip-como-saber-si-robaron-clave-fiscal |
 | 82 | Dark News | AFIP Stealer Logs compilation | Spanish | https://www.brodersendarknews.com/p/ransomware-2023-record-recaudacion-mil-millones |
 | 83 | Telemundo Uruguay | Operation Chronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
+| 84 | El Observador | Operation Chronos | Spanish | https://www.elobservador.com.uy/nota/el-contraataque-de-los-hackers-mas-daninos-del-mundo-lo-que-no-se-conto-de-una-cruzada-internacional-202422114580 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
