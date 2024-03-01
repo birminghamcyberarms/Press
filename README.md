@@ -91,9 +91,10 @@
 | 80 | El Observador | DataBreach: Intendencia de Flores | Spanish | https://www.elobservador.com.uy/nota/hackearon-a-la-intendencia-de-flores-y-ahora-un-grupo-publico-datos-confidenciales-202421418416 |
 | 81 | iProfesional | AFIP Stealer Logs compilation | Spanish | https://www.iprofesional.com/tecnologia/399594-hackeo-afip-como-saber-si-robaron-clave-fiscal |
 | 82 | Dark News | AFIP Stealer Logs compilation | Spanish | https://www.brodersendarknews.com/p/ransomware-2023-record-recaudacion-mil-millones |
-| 83 | Telemundo Uruguay | Operation Chronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
-| 84 | El Observador | Operation Chronos | Spanish | https://www.elobservador.com.uy/nota/el-contraataque-de-los-hackers-mas-daninos-del-mundo-lo-que-no-se-conto-de-una-cruzada-internacional-202422114580 |
-| 85 | Dark News | Operation Chronos | Spanish | https://www.brodersendarknews.com/i/141870155/cayo-lockbit-cayo-lockbit |
+| 83 | Telemundo Uruguay | Operation Cronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
+| 84 | El Observador | Operation Cronos | Spanish | https://www.elobservador.com.uy/nota/el-contraataque-de-los-hackers-mas-daninos-del-mundo-lo-que-no-se-conto-de-una-cruzada-internacional-202422114580 |
+| 85 | Dark News | Operation Cronos | Spanish | https://www.brodersendarknews.com/i/141870155/cayo-lockbit-cayo-lockbit |
+| 86 | Dark News | Operation Cronos | Spanish | https://www.brodersendarknews.com/p/lockbit-volvio-baja-sitio-ransomware |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
