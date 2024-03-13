@@ -95,6 +95,7 @@
 | 84 | El Observador | Operation Cronos | Spanish | https://www.elobservador.com.uy/nota/el-contraataque-de-los-hackers-mas-daninos-del-mundo-lo-que-no-se-conto-de-una-cruzada-internacional-202422114580 |
 | 85 | Dark News | Operation Cronos | Spanish | https://www.brodersendarknews.com/i/141870155/cayo-lockbit-cayo-lockbit |
 | 86 | Dark News | Operation Cronos | Spanish | https://www.brodersendarknews.com/p/lockbit-volvio-baja-sitio-ransomware |
+| 87 | Perfil Córdoba | DataBreach: Universidad de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/la-unc-victima-de-un-ciberincidente-se-filtraron-datos-personales-de-estudiantes.phtml |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
