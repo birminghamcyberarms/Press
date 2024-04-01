@@ -96,6 +96,7 @@
 | 85 | Dark News | Operation Cronos | Spanish | https://www.brodersendarknews.com/i/141870155/cayo-lockbit-cayo-lockbit |
 | 86 | Dark News | Operation Cronos | Spanish | https://www.brodersendarknews.com/p/lockbit-volvio-baja-sitio-ransomware |
 | 87 | Perfil Córdoba | DataBreach: Universidad de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/la-unc-victima-de-un-ciberincidente-se-filtraron-datos-personales-de-estudiantes.phtml |
+| 88 | El Observador | DataBreach: Cédulas de Identidad | Spanish | https://www.elobservador.com.uy/nota/hackers-publicaron-mas-de-100-fotos-de-cedulas-de-identidad-2024411118 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
