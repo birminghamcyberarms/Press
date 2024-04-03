@@ -100,6 +100,8 @@
 | 89 | El País | DataBreach: Cédulas de Identidad | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackearon-una-intendencia-y-el-correo-uruguayo-y-ahora-publicaron-mas-de-100-fotos-de-cedulas-quienes-son |
 | 90 | El Debate | DataBreach: Cédulas de Identidad | Spanish | https://www.debate.com.uy/actualidad/Hackers-atacaron-al-Correo-Uruguayo-y-a-una-intendencia-compartieron-mas-de-100-fotos-de-cedulas-20240401-0029.html |
 | 91 | Diario Clarín | DataBreach: RENAPER | Spanish | https://www.clarin.com/tecnologia/publican-115-mil-fotos-ciudadanos-argentinos-robadas-renaper-riesgos-explicacion-gobierno_0_YbsnmMgEew.html |
+| 92 | Ámbito Financiero | DataBreach: RENAPER | Spanish | https://www.ambito.com/informacion-general/renaper-robaron-un-archivo-mas-116-mil-fotos-ciudadanos-argentinos-y-las-publicaron-un-foro-n5975283 |
+| 93 | Chaco Dia | DataBreach: RENAPER | Spanish | https://chacodiapordia.com/renaper-robaron-un-archivo-con-mas-de-116-000-fotos-de-ciudadanos-argentinos-y-las-publicaron-en-un-foro/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
