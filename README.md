@@ -113,6 +113,16 @@
 | 102 | La Nación | DataBreach: DNRPA | Spanish | https://www.lanacion.com.ar/seguridad/la-venden-a-us-3700-hackearon-la-base-de-datos-nacional-de-licencias-de-conducir-y-muestran-las-de-nid16042024/ |
 | 103 | Diario Perfil | DataBreach: DNRPA | Spanish | https://www.perfil.com/noticias/sociedad/golpe-a-la-base-de-datos-del-estado-hackearon-y-robaron-informacion-sobre-57-millones-licencias-de-conducir.phtml |
 | 104 | Infobae | DataBreach: DNRPA | Spanish | https://www.infobae.com/politica/2024/04/16/hackearon-la-base-de-datos-de-licencias-de-conducir-contiene-casi-6-millones-de-registros-y-piden-usd-2000-para-devolverlas/ |
+| 105 | El Observador | DataBreach: DNRPA | Spanish | https://www.elobservador.com.uy/nota/hackearon-la-base-de-datos-de-todas-las-licencias-de-conducir-de-argentina-la-venden-a-3700-dolares-2024416171510 |
+| 106 | 24 HS México | DataBreach: DNRPA | Spanish | https://www.24-horas.mx/2024/04/16/datos-de-mas-de-6-millones-de-licencias-de-conducir-son-robados-en-argentina/ |
+| 107 | Reporte Diario Chile | DataBreach: DNRPA | Spanish | https://reportediario.cl/2024/04/16/escandalo-en-argentina-roban-imagenes-de-millones-de-licencias-de-conducir/ |
+| 108 | iProfesional | DataBreach: DNRPA | Spanish | https://www.iprofesional.com/actualidad/404118-hackeos-a-afip-y-renaper-las-graves-fallas-en-ciberseguridad-del-estado-argentino |
+| 109 | Bio Bio Chile | DataBreach: DNRPA | Spanish | https://www.biobiochile.cl/noticias/internacional/america-latina/2024/04/16/milei-entre-las-victimas-roban-imagenes-de-casi-6-millones-de-licencias-de-conducir-en-argentina.shtml |
+| 110 | La Nación Chile | DataBreach: DNRPA | Spanish | https://www.lanacion.cl/roban-imagenes-de-casi-6-millones-de-licencias-de-conducir-en-argentina-milei-es-uno-de-los-afectados/ |
+| 111 | CNN Chile | DataBreach: DNRPA | Spanish | https://www.cnnchile.com/mundo/roban-base-datos-licencias-conducir-argentina-mauricio-macri-javier-milei-patricia-bullrich_20240416/ |
+| 112 | Ámbito Financiero | DataBreach: DNRPA | Spanish | https://www.ambito.com/tecnologia/ciberdelito-robaron-la-base-datos-todas-las-licencias-conducir-argentina-n5982562 |
+| 113 | Rosario3 | DataBreach: DNRPA | Spanish | https://www.rosario3.com/informaciongeneral/Un-hacker-puso-a-la-venta-una-serie-de-archivos-con-millones-de-licencias-de-conducir-entre-ellas-las-de-Javier-Milei-y-otros-funcionarios-20240416-0051.html |
+
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
