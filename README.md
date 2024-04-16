@@ -122,7 +122,7 @@
 | 111 | CNN Chile | DataBreach: DNRPA | Spanish | https://www.cnnchile.com/mundo/roban-base-datos-licencias-conducir-argentina-mauricio-macri-javier-milei-patricia-bullrich_20240416/ |
 | 112 | Ámbito Financiero | DataBreach: DNRPA | Spanish | https://www.ambito.com/tecnologia/ciberdelito-robaron-la-base-datos-todas-las-licencias-conducir-argentina-n5982562 |
 | 113 | Rosario3 | DataBreach: DNRPA | Spanish | https://www.rosario3.com/informaciongeneral/Un-hacker-puso-a-la-venta-una-serie-de-archivos-con-millones-de-licencias-de-conducir-entre-ellas-las-de-Javier-Milei-y-otros-funcionarios-20240416-0051.html |
-
+| 114 | RT | DataBreach: DNRPA | Spanish | https://actualidad.rt.com/actualidad/506316-hackean-base-datos-licencias-conducir-argentina |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
