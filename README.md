@@ -125,6 +125,7 @@
 | 114 | RT | DataBreach: DNRPA | Spanish | https://actualidad.rt.com/actualidad/506316-hackean-base-datos-licencias-conducir-argentina |
 | 115 | La República Perú | DataBreach: DNRPA | Spanish | https://larepublica.pe/mundo/2024/04/16/roban-los-datos-de-todas-las-licencias-de-conducir-de-argentina-incluida-la-de-milei-y-piden-us3000-javier-milei-ciberseguridad-hackers-licencia-de-conducir-patricia-bullrich-luis-petri-marcelo-tinelli-ansv-922800 |
 | 116 | Huffington Post | DataBreach: DNRPA | Italian | https://www.huffingtonpost.it/rubriche/cose-dell-altro-mondo/2024/04/17/news/la_patente_del_motosega-15661314/ |
+| 117 | Dark News | DataBreach: DNRPA | Spanish | https://www.brodersendarknews.com/i/143574000/filtran-datos-de-licencias-de-conducir |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
