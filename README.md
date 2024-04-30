@@ -127,6 +127,7 @@
 | 116 | Huffington Post | DataBreach: DNRPA | Italian | https://www.huffingtonpost.it/rubriche/cose-dell-altro-mondo/2024/04/17/news/la_patente_del_motosega-15661314/ |
 | 117 | Dark News | DataBreach: DNRPA | Spanish | https://www.brodersendarknews.com/i/143574000/filtran-datos-de-licencias-de-conducir |
 | 118 | Diario Clarín | Biometrics | Spanish | https://www.clarin.com/tecnologia/vas-escanear-iris-detras-worldcoin-polemico-proyecto-entrega-500-dolares-persona_0_Q7X60cTPzI.html |
+| 119 | Infobae | DataBreach: DNRPA | Spanish | https://www.infobae.com/politica/2024/04/29/video-un-bot-de-telegram-exhibe-datos-de-millones-de-personas-por-el-hackeo-a-las-licencias-de-conducir/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
