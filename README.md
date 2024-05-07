@@ -129,6 +129,7 @@
 | 118 | Diario Clarín | Biometrics | Spanish | https://www.clarin.com/tecnologia/vas-escanear-iris-detras-worldcoin-polemico-proyecto-entrega-500-dolares-persona_0_Q7X60cTPzI.html |
 | 119 | Infobae | DataBreach: DNRPA | Spanish | https://www.infobae.com/politica/2024/04/29/video-un-bot-de-telegram-exhibe-datos-de-millones-de-personas-por-el-hackeo-a-las-licencias-de-conducir/ |
 | 120 | Escudo Digital | DataBreach: BCRA | Spanish | https://www.escudodigital.com/ciberseguridad/banco-central-republica-argentina-victima-posible-brecha-datos_58863_102.html |
+| 121 | El Observador | Sheriff & MeFiltraron | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/aumento-la-filtracion-mails-uruguayos-hackeos-son-mas-5-millones-cuentas-n5938579 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
