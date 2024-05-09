@@ -130,6 +130,8 @@
 | 119 | Infobae | DataBreach: DNRPA | Spanish | https://www.infobae.com/politica/2024/04/29/video-un-bot-de-telegram-exhibe-datos-de-millones-de-personas-por-el-hackeo-a-las-licencias-de-conducir/ |
 | 120 | Escudo Digital | DataBreach: BCRA | Spanish | https://www.escudodigital.com/ciberseguridad/banco-central-republica-argentina-victima-posible-brecha-datos_58863_102.html |
 | 121 | El Observador | Sheriff & MeFiltraron | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/aumento-la-filtracion-mails-uruguayos-hackeos-son-mas-5-millones-cuentas-n5938579 |
+| 122 | TV Pública | DataBreach: DNRPA | Spanish | https://www.tvpublica.com.ar/post/robaron-los-datos-de-todas-las-licencias-de-conducir-del-pais |
+| 123 | C5N | DataBreach: AMIA | Spanish | https://www.instagram.com/reel/C6ucfY9v4vH/?igsh=MWcweGJldjkzcmk0eA== |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
