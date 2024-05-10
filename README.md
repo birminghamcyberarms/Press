@@ -132,6 +132,7 @@
 | 121 | El Observador | Sheriff & MeFiltraron | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/aumento-la-filtracion-mails-uruguayos-hackeos-son-mas-5-millones-cuentas-n5938579 |
 | 122 | TV Pública | DataBreach: DNRPA | Spanish | https://www.tvpublica.com.ar/post/robaron-los-datos-de-todas-las-licencias-de-conducir-del-pais |
 | 123 | C5N | DataBreach: AMIA | Spanish | https://www.instagram.com/reel/C6ucfY9v4vH/?igsh=MWcweGJldjkzcmk0eA== |
+| 124 | C5N | DataBreach: AMIA | Spanish | https://www.c5n.com/tecnologia/vinculos-politicos-ponen-riesgo-la-ciberseguridad-argentina-amia-milei-y-los-hacktivistas-pro-palestina-n157648 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
