@@ -134,6 +134,7 @@
 | 123 | C5N | DataBreach: AMIA | Spanish | https://www.instagram.com/reel/C6ucfY9v4vH/?igsh=MWcweGJldjkzcmk0eA== |
 | 124 | C5N | DataBreach: AMIA | Spanish | https://www.c5n.com/tecnologia/vinculos-politicos-ponen-riesgo-la-ciberseguridad-argentina-amia-milei-y-los-hacktivistas-pro-palestina-n157648 |
 | 125 | El Observador | Data Extortion: GODHAND | Spanish | https://www.elobservador.com.uy/advierten-el-crecimiento-uruguay-data-extortion-afecto-un-liceo-privado-montevideo-n5939084 |
+| 126 | Infobae | Data Extortion: GODHAND | Spanish | https://www.infobae.com/america/america-latina/2024/05/15/advierten-en-uruguay-por-el-crecimiento-de-las-extorsiones-de-datos-tras-hackeos-un-colegio-fue-afectado/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
