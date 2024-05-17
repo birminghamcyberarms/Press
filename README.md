@@ -135,6 +135,7 @@
 | 124 | C5N | DataBreach: AMIA | Spanish | https://www.c5n.com/tecnologia/vinculos-politicos-ponen-riesgo-la-ciberseguridad-argentina-amia-milei-y-los-hacktivistas-pro-palestina-n157648 |
 | 125 | El Observador | Data Extortion: GODHAND | Spanish | https://www.elobservador.com.uy/advierten-el-crecimiento-uruguay-data-extortion-afecto-un-liceo-privado-montevideo-n5939084 |
 | 126 | Infobae | Data Extortion: GODHAND | Spanish | https://www.infobae.com/america/america-latina/2024/05/15/advierten-en-uruguay-por-el-crecimiento-de-las-extorsiones-de-datos-tras-hackeos-un-colegio-fue-afectado/ |
+| 127 | El Observador | FBI vs BreachForums | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/fbi-tomo-el-poder-un-foro-que-tenia-filtraciones-fotos-cedulas-y-hackeos-del-inau-intendencias-y-empresas-uruguayas-n5940583 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
