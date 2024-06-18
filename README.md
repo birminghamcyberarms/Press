@@ -136,6 +136,7 @@
 | 125 | El Observador | Data Extortion: GODHAND | Spanish | https://www.elobservador.com.uy/advierten-el-crecimiento-uruguay-data-extortion-afecto-un-liceo-privado-montevideo-n5939084 |
 | 126 | Infobae | Data Extortion: GODHAND | Spanish | https://www.infobae.com/america/america-latina/2024/05/15/advierten-en-uruguay-por-el-crecimiento-de-las-extorsiones-de-datos-tras-hackeos-un-colegio-fue-afectado/ |
 | 127 | El Observador | FBI vs BreachForums | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/fbi-tomo-el-poder-un-foro-que-tenia-filtraciones-fotos-cedulas-y-hackeos-del-inau-intendencias-y-empresas-uruguayas-n5940583 |
+| 128 | La Gaceta | DataBreach: San Luis | Spanish | https://lagacetadigital.com.ar/2024/06/14/reportan-la-venta-de-la-base-de-datos-de-120-000-inscriptos-en-el-plan-de-vivienda-de-san-luis/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
