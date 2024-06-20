@@ -137,6 +137,8 @@
 | 126 | Infobae | Data Extortion: GODHAND | Spanish | https://www.infobae.com/america/america-latina/2024/05/15/advierten-en-uruguay-por-el-crecimiento-de-las-extorsiones-de-datos-tras-hackeos-un-colegio-fue-afectado/ |
 | 127 | El Observador | FBI vs BreachForums | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/fbi-tomo-el-poder-un-foro-que-tenia-filtraciones-fotos-cedulas-y-hackeos-del-inau-intendencias-y-empresas-uruguayas-n5940583 |
 | 128 | La Gaceta | DataBreach: San Luis | Spanish | https://lagacetadigital.com.ar/2024/06/14/reportan-la-venta-de-la-base-de-datos-de-120-000-inscriptos-en-el-plan-de-vivienda-de-san-luis/ |
+| 129 | C5N | DataBreach: San Luis | Spanish | https://www.instagram.com/p/C8akyL8M5jZ/ |
+| 130 | Metro 951 | DataBreach: TravelSale | Spanish | https://mega.nz/file/Vd9WHCrK#6EJ-Bw0RQCi3UG8cAKv3wf9vhdZthlyPNG1HnnZrro4 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
