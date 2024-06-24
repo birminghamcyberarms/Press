@@ -139,6 +139,7 @@
 | 128 | La Gaceta | DataBreach: San Luis | Spanish | https://lagacetadigital.com.ar/2024/06/14/reportan-la-venta-de-la-base-de-datos-de-120-000-inscriptos-en-el-plan-de-vivienda-de-san-luis/ |
 | 129 | C5N | DataBreach: San Luis | Spanish | https://www.instagram.com/p/C8akyL8M5jZ/ |
 | 130 | Metro 951 | DataBreach: TravelSale | Spanish | https://mega.nz/file/Vd9WHCrK#6EJ-Bw0RQCi3UG8cAKv3wf9vhdZthlyPNG1HnnZrro4 |
+| 131 | C5n | DataBreach: San Luis | Spanish | https://www.c5n.com/tecnologia/grave-hackeo-san-luis-afecta-familias-discapacitados-y-victimas-violencia-genero-n163034 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
