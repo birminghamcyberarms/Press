@@ -140,6 +140,8 @@
 | 129 | C5N | DataBreach: San Luis | Spanish | https://www.instagram.com/p/C8akyL8M5jZ/ |
 | 130 | Metro 951 | DataBreach: TravelSale | Spanish | https://mega.nz/file/Vd9WHCrK#6EJ-Bw0RQCi3UG8cAKv3wf9vhdZthlyPNG1HnnZrro4 |
 | 131 | C5n | DataBreach: San Luis | Spanish | https://www.c5n.com/tecnologia/grave-hackeo-san-luis-afecta-familias-discapacitados-y-victimas-violencia-genero-n163034 |
+| 132 | Metro 951 | Ransomware: OCASA | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
+| 133 | Metro 951 | Ransomware: DeCreditos | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
