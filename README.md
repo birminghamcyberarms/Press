@@ -142,6 +142,7 @@
 | 131 | C5n | DataBreach: San Luis | Spanish | https://www.c5n.com/tecnologia/grave-hackeo-san-luis-afecta-familias-discapacitados-y-victimas-violencia-genero-n163034 |
 | 132 | Metro 951 | Ransomware: OCASA | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
 | 133 | Metro 951 | Ransomware: DeCreditos | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
+| 134 | Dark News | Ransomware: Lockbit vs Federal Reserve | Spanish | https://www.brodersendarknews.com/i/145977317/lockbit-mintio-en-su-sitio-el-grupo-cada-vez-con-menos-poder-de-fuego |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
