@@ -144,6 +144,7 @@
 | 133 | Metro 951 | Ransomware: DeCreditos | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
 | 134 | Dark News | Ransomware: Lockbit vs Federal Reserve | Spanish | https://www.brodersendarknews.com/i/145977317/lockbit-mintio-en-su-sitio-el-grupo-cada-vez-con-menos-poder-de-fuego |
 | 135 | Telenoche | Deepfake Campaign in Uruguay | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/campana-estafas-el-exterior-usan-la-imagen-lacalle-pou-y-daniel-salinas-n5370239 |
+| 136 | Dark News | Ransomware: Hunters vs Santa Rosa Gov | Spanish | https://www.brodersendarknews.com/p/ariel-wata-waissbein-agencia-ciberseguridad |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
