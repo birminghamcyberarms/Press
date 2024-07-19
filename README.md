@@ -145,6 +145,7 @@
 | 134 | Dark News | Ransomware: Lockbit vs Federal Reserve | Spanish | https://www.brodersendarknews.com/i/145977317/lockbit-mintio-en-su-sitio-el-grupo-cada-vez-con-menos-poder-de-fuego |
 | 135 | Telenoche | Deepfake Campaign in Uruguay | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/campana-estafas-el-exterior-usan-la-imagen-lacalle-pou-y-daniel-salinas-n5370239 |
 | 136 | Dark News | Ransomware: Hunters vs Santa Rosa Gov | Spanish | https://www.brodersendarknews.com/p/ariel-wata-waissbein-agencia-ciberseguridad |
+| 137 | Diario Clarín | Crowdstrike BSOD | Spanish | https://www.clarin.com/tecnologia/crowdstrike-caida-global-microsoft-impacto-forma-masiva-argentina_0_OvUfUM3xiz.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
