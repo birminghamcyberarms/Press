@@ -147,6 +147,7 @@
 | 136 | Dark News | Ransomware: Hunters vs Santa Rosa Gov | Spanish | https://www.brodersendarknews.com/p/ariel-wata-waissbein-agencia-ciberseguridad |
 | 137 | Diario Clarín | Crowdstrike BSOD | Spanish | https://www.clarin.com/tecnologia/crowdstrike-caida-global-microsoft-impacto-forma-masiva-argentina_0_OvUfUM3xiz.html |
 | 138 | Felicitas Bonavitta | Ransomware: La Pampa | Spanish | https://felicitasbonavitta.com/wp/2024/07/22/filtracion-de-datos-en-el-municipio-de-santa-rosa/ |
+| 139 | Diario de La Pampa | Ransomware: La Pampa | Spanish | https://www.eldiariodelapampa.com.ar/la-pampa/37954/filtran-datos-del-hackeo-a-la-municipalidad-de-santa-rosa |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
