@@ -152,6 +152,7 @@
 | 141 | La Arena | Ransomware: La Pampa | Spanish | https://www.laarena.com.ar/la-pampa/filtraron-datos-del-hackeo-a-los-sistemas-del-municipio-de-santa-rosa-20247221980 |
 | 142 | Plan B Noticias | Ransomware: La Pampa | Spanish | https://www.planbnoticias.com.ar/index.php/2024/07/22/hackeo-a-la-municipalidad-atacantes-filtran-datos-oficiales/ |
 | 143 | Full Diario | Ransomware: La Pampa | Spanish | https://fulldiario.com.ar/ciberataque-al-municipio-santarroseno-hay-informacion-sensible-del-gobierno-y-datos-personales-de-santarrosenos-que-deben-ser-advertidos-para-prevenir-estafas/ |
+| 144 | Dark News | Ransomware: La Pampa | Spanish | https://www.brodersendarknews.com/i/146760467/publican-datos-de-la-municipalidad-de-santa-rosa |
 
 
 ### Scientific Mentions
