@@ -154,7 +154,7 @@
 | 143 | Full Diario | Ransomware: La Pampa | Spanish | https://fulldiario.com.ar/ciberataque-al-municipio-santarroseno-hay-informacion-sensible-del-gobierno-y-datos-personales-de-santarrosenos-que-deben-ser-advertidos-para-prevenir-estafas/ |
 | 144 | Dark News | Ransomware: La Pampa | Spanish | https://www.brodersendarknews.com/i/146760467/publican-datos-de-la-municipalidad-de-santa-rosa |
 | 145 | LadoB | Ransomware: OCASA | Spanish | https://ladobnews.substack.com/i/146990080/hackeo-y-filtracion-de-ocasa |
-
+| 146 | Metro 951 | Ransomware: OCASA | Spanish |https://mega.nz/file/kZlgmQiT#HoJmE-WBp6jArWxhlqohnIEEhus2g6tpDwO3hnPTHQM |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
