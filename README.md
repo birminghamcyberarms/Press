@@ -156,6 +156,7 @@
 | 145 | LadoB | Ransomware: OCASA | Spanish | https://ladobnews.substack.com/i/146990080/hackeo-y-filtracion-de-ocasa |
 | 146 | Metro 951 | Ransomware: OCASA | Spanish | https://mega.nz/file/kZlgmQiT#HoJmE-WBp6jArWxhlqohnIEEhus2g6tpDwO3hnPTHQM |
 | 147 | Diario Norte | Ransomware: OCASA | Spanish | https://www.diarionorte.com/271401-confirman-hackeo-masivo-y-exposicion-de-informacion-sensible |
+| 148 | Metro 951 | DataBreach: Historia Clínica de Chaco | Spanish | https://mega.nz/file/wFEinYaJ#-75P7OyljgbsGbI2X93CYSy1QwiRTzErJQcbkSFfkTg |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
