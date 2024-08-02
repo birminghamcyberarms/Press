@@ -157,6 +157,8 @@
 | 146 | Metro 951 | Ransomware: OCASA | Spanish | https://mega.nz/file/kZlgmQiT#HoJmE-WBp6jArWxhlqohnIEEhus2g6tpDwO3hnPTHQM |
 | 147 | Diario Norte | Ransomware: OCASA | Spanish | https://www.diarionorte.com/271401-confirman-hackeo-masivo-y-exposicion-de-informacion-sensible |
 | 148 | Metro 951 | DataBreach: Historia Clínica de Chaco | Spanish | https://mega.nz/file/wFEinYaJ#-75P7OyljgbsGbI2X93CYSy1QwiRTzErJQcbkSFfkTg |
+| 149 | iProUp | Ransomware: OCASA | Spanish | https://www.iproup.com/innovacion/49048-hackeo-a-ocasa-experto-asegura-que-la-empresa-miente |
+| 150 | Metro 951 | DataBreach: Government Law Enforcement TikTok | Spanish | https://mega.nz/file/hYtHSBAZ#Le4pbipKjeKDKlrbhPo9TC1Pm7_jbieqLoWtFZpp4V8 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
