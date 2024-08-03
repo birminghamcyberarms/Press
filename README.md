@@ -159,6 +159,7 @@
 | 148 | Metro 951 | DataBreach: Historia Clínica de Chaco | Spanish | https://mega.nz/file/wFEinYaJ#-75P7OyljgbsGbI2X93CYSy1QwiRTzErJQcbkSFfkTg |
 | 149 | iProUp | Ransomware: OCASA | Spanish | https://www.iproup.com/innovacion/49048-hackeo-a-ocasa-experto-asegura-que-la-empresa-miente |
 | 150 | Metro 951 | DataBreach: Government Law Enforcement TikTok | Spanish | https://mega.nz/file/hYtHSBAZ#Le4pbipKjeKDKlrbhPo9TC1Pm7_jbieqLoWtFZpp4V8 |
+| 151 | El Observador | Ransomware: Paysandú | Spanish | https://www.elobservador.com.uy/quien-esta-atras-del-historico-ataque-informatico-la-intendencia-paysandu-n5954354 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
