@@ -160,6 +160,7 @@
 | 149 | iProUp | Ransomware: OCASA | Spanish | https://www.iproup.com/innovacion/49048-hackeo-a-ocasa-experto-asegura-que-la-empresa-miente |
 | 150 | Metro 951 | DataBreach: Government Law Enforcement TikTok | Spanish | https://mega.nz/file/hYtHSBAZ#Le4pbipKjeKDKlrbhPo9TC1Pm7_jbieqLoWtFZpp4V8 |
 | 151 | El Observador | Ransomware: Paysandú | Spanish | https://www.elobservador.com.uy/quien-esta-atras-del-historico-ataque-informatico-la-intendencia-paysandu-n5954354 |
+| 152 | El Observador | Cybercrime: Partido Nacional | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-vulneraron-la-web-del-partido-nacional-y-amenazaron-graciela-bianchi-n5954609 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
