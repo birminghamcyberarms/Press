@@ -164,6 +164,8 @@
 | 153 | Subrayado | Cybercrime: Partido Nacional | Spanish | https://www.subrayado.com.uy/hackearon-sitio-web-del-partido-nacional-y-amenazaron-graciela-bianchi-nuestro-silencio-tiene-precio-n953547 |
 | 154 | Teledoce | Cybercrime: Partido Nacional | Spanish | https://www.teledoce.com/telemundo/nacionales/hackearon-la-web-del-partido-nacional-y-amenazaron-a-graciela-bianchi-sabemos-lo-que-mandaste-por-whatsapp/ |
 | 155 | Caras & Caretas | Cybercrime: Partido Nacional | Spanish | https://www.carasycaretas.com.uy/politica/hackean-web-del-partido-nacional-y-amenazaron-bianchi-sabemos-lo-que-mandaste-whatsapp-n76125 |
+| 156 | M24 | Cybercrime: Partido Nacional | Spanish | https://www.m24.com.uy/borrar-los-chats-de-whatsapp-el-pedido-del-ministro-del-interior-a-graciela-bianchi-tras-amenaza-sobre-hackeo/ |
+| 157 | La Diaria | Cybercrime: Partido Nacional | Spanish | https://ladiaria.com.uy/politica/articulo/2024/8/hackers-vulneraron-la-pagina-del-partido-nacional-y-amenazaron-a-graciela-bianchi-sabemos-lo-que-mandaste-por-whatsapp/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
