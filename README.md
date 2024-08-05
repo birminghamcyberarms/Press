@@ -163,6 +163,7 @@
 | 152 | El Observador | Cybercrime: Partido Nacional | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-vulneraron-la-web-del-partido-nacional-y-amenazaron-graciela-bianchi-n5954609 |
 | 153 | Subrayado | Cybercrime: Partido Nacional | Spanish | https://www.subrayado.com.uy/hackearon-sitio-web-del-partido-nacional-y-amenazaron-graciela-bianchi-nuestro-silencio-tiene-precio-n953547 |
 | 154 | Teledoce | Cybercrime: Partido Nacional | Spanish | https://www.teledoce.com/telemundo/nacionales/hackearon-la-web-del-partido-nacional-y-amenazaron-a-graciela-bianchi-sabemos-lo-que-mandaste-por-whatsapp/ |
+| 155 | Caras & Caretas | Cybercrime: Partido Nacional | Spanish | https://www.carasycaretas.com.uy/politica/hackean-web-del-partido-nacional-y-amenazaron-bianchi-sabemos-lo-que-mandaste-whatsapp-n76125 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
