@@ -168,6 +168,8 @@
 | 157 | La Diaria | Cybercrime: Partido Nacional | Spanish | https://ladiaria.com.uy/politica/articulo/2024/8/hackers-vulneraron-la-pagina-del-partido-nacional-y-amenazaron-a-graciela-bianchi-sabemos-lo-que-mandaste-por-whatsapp/ |
 | 158 | El País | Cybercrime: Partido Nacional | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackeo-a-la-web-del-partido-nacional-y-amenaza-a-graciela-bianchi-en-que-consistio-el-grave-ataque |
 | 159 | Telenoche | Cybercrime: Partido Nacional | Spanish | https://www.telenoche.com.uy/nacionales/hackers-vulneraron-la-pagina-del-partido-nacional-y-amenazaron-graciela-bianchi-el-13-agosto-2024-hablamos-n5371434 |
+| 160 | C5N | DataBreach: Racing Club | Spanish | https://www.c5n.com/sociedad/hackearon-el-sistema-socios-racing-y-hay-preocupacion-los-hinchas-n172566 |
+| 161 | El Observador | Cybercrime: MTSS & DNIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-ponen-la-venta-un-sistema-que-permite-saber-quienes-son-7-millones-cedulas-n5960764 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
