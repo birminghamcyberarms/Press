@@ -172,6 +172,9 @@
 | 161 | El Observador | Cybercrime: MTSS & DNIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-ponen-la-venta-un-sistema-que-permite-saber-quienes-son-7-millones-cedulas-n5960764 |
 | 162 | Telenoche | Cybercrime: MTSS & DNIC | Spanish | https://www.telenoche.com.uy/sociedad/hackers-pusieron-la-venta-datos-millones-cedulas-uruguayas-n5373520 |
 | 163 | C5N | DataBreach: Vélez Sarsfield | Spanish | https://www.c5n.com/tecnologia/hackeos-el-futbol-argentino-se-filtraron-180000-registros-y-17000-fotos-socios-velez-incluyendo-el-bizarrap-n174737 |
+| 164 | El Observador | Cybercrime: Partido Nacional | Spanish | https://www.elobservador.com.uy/nacional/hackearon-otra-vez-la-web-del-partido-nacional-y-publicaron-una-nueva-amenaza-es-que-vean-que-seguimos-dentro-n5962519 |
+| 165 | Montevideo Portal | Cybercrime: Partido Nacional | Spanish | https://www.montevideo.com.uy/Noticias/-Nos-uso-como-juguete-y-nos-descarto--hackearon-otra-vez-la-web-del-Partido-Nacional-uc901290 |
+| 166 | LaRed21 | Cybercrime: Partido Nacional | Spanish | https://www.lr21.com.uy/politica/1477921-piratas-informaticos-volvieron-a-atacar-el-sitio-web-del-partido-nacional-y-hacen-esta-amenaza |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
