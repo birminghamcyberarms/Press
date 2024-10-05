@@ -176,6 +176,7 @@
 | 165 | Montevideo Portal | Cybercrime: Partido Nacional | Spanish | https://www.montevideo.com.uy/Noticias/-Nos-uso-como-juguete-y-nos-descarto--hackearon-otra-vez-la-web-del-Partido-Nacional-uc901290 |
 | 166 | LaRed21 | Cybercrime: Partido Nacional | Spanish | https://www.lr21.com.uy/politica/1477921-piratas-informaticos-volvieron-a-atacar-el-sitio-web-del-partido-nacional-y-hacen-esta-amenaza |
 | 167 | Dark News | EVILCORP | Spanish | https://www.brodersendarknews.com/p/ransomware-lockbit-evilcorp-operacion-cronos |
+| 168 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
