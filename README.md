@@ -177,6 +177,8 @@
 | 166 | LaRed21 | Cybercrime: Partido Nacional | Spanish | https://www.lr21.com.uy/politica/1477921-piratas-informaticos-volvieron-a-atacar-el-sitio-web-del-partido-nacional-y-hacen-esta-amenaza |
 | 167 | Dark News | EVILCORP | Spanish | https://www.brodersendarknews.com/p/ransomware-lockbit-evilcorp-operacion-cronos |
 | 168 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
+| 169 | La Opinión Semanario | DataBreach: RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-un-profesional-explico-la-diferencia-entre-hacer-trading-y-la-plataforma-de-la-china |
+| 170 | NotiSanPedro | DataBreach: RainbowEx | Spanish | http://www.notisanpedro.info/2024/10/posible-estafa-piramidal-presentacion.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
