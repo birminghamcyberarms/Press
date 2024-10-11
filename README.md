@@ -179,6 +179,9 @@
 | 168 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
 | 169 | La Opinión Semanario | DataBreach: RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-un-profesional-explico-la-diferencia-entre-hacer-trading-y-la-plataforma-de-la-china |
 | 170 | NotiSanPedro | DataBreach: RainbowEx | Spanish | http://www.notisanpedro.info/2024/10/posible-estafa-piramidal-presentacion.html |
+| 171 | Dark News | DataBreach: RainbowEx | Spanish | https://www.brodersendarknews.com/i/149943723/estafa-piramidal-de-escala-masiva-y-con-filtracion-de-datos-en-san-pedro |
+| 172 | TN | DataBreach: RainbowEx | Spanish | https://tn.com.ar/tecno/novedades/2024/10/10/san-pedro-filtraron-datos-personales-de-los-involucrados-en-el-esquema-piramidal-rainbowex/ |
+| 173 | Diario Clarín | DataBreach: RainbowEx | Spanish | https://www.clarin.com/tecnologia/rainbowex-filtran-datos-personales-usuarios-panel-gestiona-inversiones-san-pedro_0_KlnemNcSYd.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
