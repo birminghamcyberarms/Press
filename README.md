@@ -182,6 +182,7 @@
 | 171 | Dark News | DataBreach: RainbowEx | Spanish | https://www.brodersendarknews.com/i/149943723/estafa-piramidal-de-escala-masiva-y-con-filtracion-de-datos-en-san-pedro |
 | 172 | TN | DataBreach: RainbowEx | Spanish | https://tn.com.ar/tecno/novedades/2024/10/10/san-pedro-filtraron-datos-personales-de-los-involucrados-en-el-esquema-piramidal-rainbowex/ |
 | 173 | Diario Clarín | DataBreach: RainbowEx | Spanish | https://www.clarin.com/tecnologia/rainbowex-filtran-datos-personales-usuarios-panel-gestiona-inversiones-san-pedro_0_KlnemNcSYd.html |
+| 174 | La Opinión Semanario | RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/revivi-sin-galera-el-programa-de-lili-berardi-del-sabado-12-de-octubre-de-2024-todo-sobre-rainbowex |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
