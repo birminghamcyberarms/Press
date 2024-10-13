@@ -186,6 +186,8 @@
 | 175 | Chequeado | AI-powered Scams | Spanish | https://chequeado.com/el-explicador/estafas-virtuales-como-te-pueden-enganar-con-audios-o-videos-creados-con-inteligencia-artificial/ |
 | 176 | BH Info | DataBreach: RainbowEx | Spanish | https://www.bhinfo.com.ar/noticia/5682-Estafa_Piramidal_en_Bahia_se_quedan_con_el_dinero_y_tambien_venden_los_datos-02092024 |
 | 177 | La Opinión Semanario | DataBreach: RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-detras-el-telefono-de-la-china-hay-un-numero-de-san-pedro-y-es-de-maximiliano-braga |
+| 178 | La Opinión Semanario | DataBreach: RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-62-mil-usuarios-invirtieron-mas-de-49-millones-de-dolares |
+| 179 | Diario Clarín | DataBreach: RainbowEx | Spanish | https://www.clarin.com/sociedad/datos-insolitos-esconde-rainbowex-lider-puso-1100-dolares-junto-405-mil-misterio-china-vive-san-pedro_0_aXZIpbv5yc.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
