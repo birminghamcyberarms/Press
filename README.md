@@ -194,6 +194,7 @@
 | 181 | El Bonaerense | RainbowEx | Spanish | https://www.elbonaerense.news/2024/10/13/la-estafa-piramidal-en-san-pedro-movio-casi-50-millones-de-dolares |
 | 182 | Calamuchita Ya | RainbowEx | Spanish | https://calamuchitaya.com/12096-investigaciones-judiciales-abiertas-por-estafa-multimillonaria-en-rainbowex/ |
 | 183 | A24 | RainbowEx | Spanish | https://www.a24.com/actualidad/estafa-piramidal-san-pedro-49-millones-dolares-y-una-china-que-era-un-chino-y-vive-un-exclusivo-barrio-privado-n1362628 |
+| 184 | Revista Anfibia | RainbowEx | Spanish | https://www.revistaanfibia.com/rainbowex-san-pedro-pueblo-chico-estafa-grande/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
