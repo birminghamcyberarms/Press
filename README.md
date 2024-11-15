@@ -195,6 +195,8 @@
 | 182 | Calamuchita Ya | RainbowEx | Spanish | https://calamuchitaya.com/12096-investigaciones-judiciales-abiertas-por-estafa-multimillonaria-en-rainbowex/ |
 | 183 | A24 | RainbowEx | Spanish | https://www.a24.com/actualidad/estafa-piramidal-san-pedro-49-millones-dolares-y-una-china-que-era-un-chino-y-vive-un-exclusivo-barrio-privado-n1362628 |
 | 184 | Revista Anfibia | RainbowEx | Spanish | https://www.revistaanfibia.com/rainbowex-san-pedro-pueblo-chico-estafa-grande/ |
+| 185 | Sala de Redacción Udelar | Cyber Threats in Uruguay | Spanish | https://sdr.fic.edu.uy/lo-esencial-es-invisible-a-los-ojos/ |
+| 186 | El Observador | Ransomware: El Dorado | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackearon-al-supermercado-el-dorado-y-filtraron-mas-18-gb-informacion-comercial-y-empleados-n5970337 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
