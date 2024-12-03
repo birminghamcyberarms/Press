@@ -199,6 +199,7 @@
 | 186 | El Observador | Ransomware: El Dorado | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackearon-al-supermercado-el-dorado-y-filtraron-mas-18-gb-informacion-comercial-y-empleados-n5970337 |
 | 187 | El Observador | Cybercrime: Partido Nacional | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-atacaron-tercera-vez-la-web-del-partido-nacional-y-publicaron-una-nueva-amenaza-n5971339 |
 | 188 | Montevideo Portal | Cybercrime: Partido Nacional | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Hackers-atacaron-web-de-los-blancos-con-alusion-a-la-eleccion-y-a-la-causa-de-Penades-uc907228 |
+| 189 | Diario Clarín | Ransomware: Sanatorio Rossi | Spanish | https://www.clarin.com/tecnologia/hackean-centros-estudios-medicos-rossi-stamboulian-hidalgo-sabe-ataque-volverian-normalidad_0_FqplYX3Y7d.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
