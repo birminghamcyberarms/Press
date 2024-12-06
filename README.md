@@ -202,6 +202,7 @@
 | 189 | Diario Clarín | Ransomware: Sanatorio Rossi | Spanish | https://www.clarin.com/tecnologia/hackean-centros-estudios-medicos-rossi-stamboulian-hidalgo-sabe-ataque-volverian-normalidad_0_FqplYX3Y7d.html |
 | 190 | El Observador | Cybercrime: DGI & AFAP | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-accedieron-cuentas-usuarios-la-dgi-y-republica-afap-y-aseguran-poder-hacer-tramites-su-nombre-n5973497 |
 | 191 | UY Press | Cybercrime: DGI & AFAP | Spanish | https://www.uypress.net/Secciones/Hackers-accedieron-a-cuentas-de-usuarios-de-DGI-y-Republica-AFAP-aseguran-que-pueden-hacer-tramites-en-su-nombre-uc141161 |
+| 192 | Dark News | Ransomware: Sanatorio Rossi | Spanish | https://www.brodersendarknews.com/i/152408402/hackean-tres-importantes-centros-de-estudios-medicos-en-argentina |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
