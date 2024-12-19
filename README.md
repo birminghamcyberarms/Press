@@ -203,6 +203,7 @@
 | 190 | El Observador | Cybercrime: DGI & AFAP | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-accedieron-cuentas-usuarios-la-dgi-y-republica-afap-y-aseguran-poder-hacer-tramites-su-nombre-n5973497 |
 | 191 | UY Press | Cybercrime: DGI & AFAP | Spanish | https://www.uypress.net/Secciones/Hackers-accedieron-a-cuentas-de-usuarios-de-DGI-y-Republica-AFAP-aseguran-que-pueden-hacer-tramites-en-su-nombre-uc141161 |
 | 192 | Dark News | Ransomware: Sanatorio Rossi | Spanish | https://www.brodersendarknews.com/i/152408402/hackean-tres-importantes-centros-de-estudios-medicos-en-argentina |
+| 193 | Periferia | Ransomware: CNEA | Spanish | https://periferia.com.ar/politica-cientifica/un-grupo-de-atacantes-informaticos-se-adjudicaron-el-hackeo-a-la-comision-nacional-de-energia-atomica/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
