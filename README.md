@@ -205,6 +205,10 @@
 | 192 | Dark News | Ransomware: Sanatorio Rossi | Spanish | https://www.brodersendarknews.com/i/152408402/hackean-tres-importantes-centros-de-estudios-medicos-en-argentina |
 | 193 | Periferia | Ransomware: CNEA | Spanish | https://periferia.com.ar/politica-cientifica/un-grupo-de-atacantes-informaticos-se-adjudicaron-el-hackeo-a-la-comision-nacional-de-energia-atomica/ |
 | 194 | El Observador | 2024 Cyber Recap | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberataques-uruguay-2024-el-surgimiento-nuevos-grupos-y-modalidades-delictivas-n5976692 |
+| 195 | El Litoral | Ransomware: CNEA | Spanish | https://www.ellitoral.com/internet-y-tecnologia/publicaron-datos-comision-nacional-energia-atomica-hackearon-miargentina-ahora-hoy-milei-francos-cnea-reactor-carem-ransomware-money-message_0_mop8kdf4LN.html |
+| 196 | Energía Online | Ransomware: CNEA | Spanish | https://energiaonline.com.ar/publicaron-supuestos-datos-de-la-comision-nacional-de-energia-atomica/ |
+| 197 | LLTDF | Ransomware: CNEA | Spanish | https://www.lalicuadoratdf.com.ar/2024/12/atacantes-informaticos-publicaron-la-informacion-hackeada-a-la-comision-nacional-de-energia-atomica/ |
+| 198 | Diario Perfil | Data Extortion: RainbowEx | Spanish | https://www.perfil.com/noticias/sociedad/de-reunirse-con-cristina-a-la-carcel-por-la-millonaria-estafa-piramidal-en-san-pedro.phtml |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
