@@ -209,6 +209,8 @@
 | 196 | Energía Online | Ransomware: CNEA | Spanish | https://energiaonline.com.ar/publicaron-supuestos-datos-de-la-comision-nacional-de-energia-atomica/ |
 | 197 | LLTDF | Ransomware: CNEA | Spanish | https://www.lalicuadoratdf.com.ar/2024/12/atacantes-informaticos-publicaron-la-informacion-hackeada-a-la-comision-nacional-de-energia-atomica/ |
 | 198 | Diario Perfil | Data Extortion: RainbowEx | Spanish | https://www.perfil.com/noticias/sociedad/de-reunirse-con-cristina-a-la-carcel-por-la-millonaria-estafa-piramidal-en-san-pedro.phtml |
+| 199 | TeleSolDiario | Data Breach: OSSE San Juan | Spanish | https://www.telesoldiario.com/445501-revuelo-por-un-posible-hackeo-a-la-base-de-datos-de-osse#google_vignette |
+| 200 | Del Sur Diario | Data Breach: OSSE San Juan | Spanish | https://www.delsurdiario.com/46955-preocupacion-por-posible-filtracion-de-datos-de-la-web-de-osse |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
