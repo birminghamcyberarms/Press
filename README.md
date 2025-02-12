@@ -211,7 +211,15 @@
 | 198 | Diario Perfil | Data Extortion: RainbowEx | Spanish | https://www.perfil.com/noticias/sociedad/de-reunirse-con-cristina-a-la-carcel-por-la-millonaria-estafa-piramidal-en-san-pedro.phtml |
 | 199 | TeleSolDiario | Data Breach: OSSE San Juan | Spanish | https://www.telesoldiario.com/445501-revuelo-por-un-posible-hackeo-a-la-base-de-datos-de-osse#google_vignette |
 | 200 | Del Sur Diario | Data Breach: OSSE San Juan | Spanish | https://www.delsurdiario.com/46955-preocupacion-por-posible-filtracion-de-datos-de-la-web-de-osse |
-| 201 | El Observador | Uruguay: 2024 recap | Spanish | https://www.elobservador.com.uy/nacional/un-incidente-informatico-detectado-cada-media-hora-aumento-precedentes-los-ciberataques-contra-el-estado-uruguayo-n5981489 
+| 201 | El Observador | Uruguay: 2024 recap | Spanish | https://www.elobservador.com.uy/nacional/un-incidente-informatico-detectado-cada-media-hora-aumento-precedentes-los-ciberataques-contra-el-estado-uruguayo-n5981489 |
+| 202 | La Diaria | Data Breach: AGESIC | Spanish | https://ladiaria.com.uy/politica/articulo/2025/2/agesic-detecto-la-filtracion-de-datos-de-su-servicio-de-atencion-a-la-ciudadania-y-realizara-analisis-forense-de-lo-sucedido/ |
+| 203 | El Observador | Data Breach: AGESIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/agesic-investiga-la-filtracion-una-supuesta-base-datos-mas-574-mil-usuarios-uruguayos-n5984547 |
+| 204 | Telenoche | Data Breach: AGESIC | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/agesic-sufrio-ciberataque-se-filtraron-datos-mas-500000-uruguayos-n5380261 |
+| 205 | Montevideo Portal | Data Breach: AGESIC | Spanish | https://www.montevideo.com.uy/Noticias/Agesic-investiga-filtracion-de-base-de-datos-con-presunta-informacion-de-574-600-personas-uc914718 |
+| 206 | Caras y Caretas | Data Breach: AGESIC | Spanish | https://www.carasycaretas.com.uy/politica/se-filtro-foro-hackers-base-datos-mas-574-mil-usuarios-uruguayos-n81741 |
+| 203 | Debate Uruguay | Data Breach: AGESIC | Spanish | https://www.debate.com.uy/actualidad/Ciberataque-en-Uruguay-venden-datos-de-mas-de-574.000-personas-en-la-web-oscura-20250211-0069.html |
+
+
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
