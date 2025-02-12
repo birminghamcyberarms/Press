@@ -218,6 +218,7 @@
 | 205 | Montevideo Portal | Data Breach: AGESIC | Spanish | https://www.montevideo.com.uy/Noticias/Agesic-investiga-filtracion-de-base-de-datos-con-presunta-informacion-de-574-600-personas-uc914718 |
 | 206 | Caras y Caretas | Data Breach: AGESIC | Spanish | https://www.carasycaretas.com.uy/politica/se-filtro-foro-hackers-base-datos-mas-574-mil-usuarios-uruguayos-n81741 |
 | 203 | Debate Uruguay | Data Breach: AGESIC | Spanish | https://www.debate.com.uy/actualidad/Ciberataque-en-Uruguay-venden-datos-de-mas-de-574.000-personas-en-la-web-oscura-20250211-0069.html |
+| 204 | El Pais | Data Breach: AGESIC | Spanish | https://www.elpais.com.uy/informacion/sociedad/agesic-inicio-investigacion-sobre-filtracion-de-supuesta-base-de-datos-de-mas-de-574-000-usuarios-uruguayos |
 
 
 
