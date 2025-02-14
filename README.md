@@ -220,8 +220,14 @@
 | 203 | Debate Uruguay | Data Breach: AGESIC | Spanish | https://www.debate.com.uy/actualidad/Ciberataque-en-Uruguay-venden-datos-de-mas-de-574.000-personas-en-la-web-oscura-20250211-0069.html |
 | 204 | El Pais | Data Breach: AGESIC | Spanish | https://www.elpais.com.uy/informacion/sociedad/agesic-inicio-investigacion-sobre-filtracion-de-supuesta-base-de-datos-de-mas-de-574-000-usuarios-uruguayos |
 | 205 | UY Press | Data Breach: AGESIC | Spanish | https://www.uypress.net/Secciones/Agesic-investiga-filtracion-de-base-de-datos-con-presunta-informacion-de-574-600-personas-uc142444 |
-
-
+| 206 | SwissInfo | Data Breach: AGESIC | Spanish | https://www.swissinfo.ch/spa/una-agencia-del-gobierno-de-uruguay-investiga-un-ciberataque/88871527 |
+| 207 | Prensa Latina | Data Breach: AGESIC | English | https://www.plenglish.com/news/2025/02/12/uruguayan-government-investigates-dimensions-of-cyber-attack/ |
+| 208 | El Economista MX | Data Breach: AGESIC | Spanish | https://www.eleconomista.com.mx/tecnologia/uruguay-investiga-filtracion-medio-millon-datos-personales-20250212-746094.html |
+| 209 | BeInCrypto | Data Breach: AGESIC | Spanish | https://es.beincrypto.com/agesic-uruguay-investiga-filtracion-venta-datos-personales-monero-xmr/ |
+| 210 | Once Noticias Honduras | Data Breach: AGESIC | Spanish | https://www.oncenoticias.hn/internacional/uruguay-recibe-un-cibercrimen-esto-tambien-puede-suceder-en-honduras/ |
+| 211 | Prensa Latina BR | Data Breach: AGESIC | Portuguese | https://www.prensalatina.com.br/2025/02/12/governo-uruguaio-investiga-dimensao-de-ciberataque/ |
+| 212 | Tin Túc Vietnam | Data Breach: AGESIC | Vietnamese | https://baotintuc.vn/khoa-hoc-cong-nghe/chinh-phu-uruguay-dieu-tra-vu-tan-cong-mang-20250213120942947.htm | 
+| 213 | El Observador | Deepfakes in Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/las-estafas-uruguay-que-usan-deepfakes-y-que-facebook-desestima-n5984942 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
