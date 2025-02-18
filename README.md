@@ -228,6 +228,7 @@
 | 211 | Prensa Latina BR | Data Breach: AGESIC | Portuguese | https://www.prensalatina.com.br/2025/02/12/governo-uruguaio-investiga-dimensao-de-ciberataque/ |
 | 212 | Tin Túc Vietnam | Data Breach: AGESIC | Vietnamese | https://baotintuc.vn/khoa-hoc-cong-nghe/chinh-phu-uruguay-dieu-tra-vu-tan-cong-mang-20250213120942947.htm | 
 | 213 | El Observador | Deepfakes in Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/las-estafas-uruguay-que-usan-deepfakes-y-que-facebook-desestima-n5984942 |
+| 214 | Coin Telegraph | Data Breach: AGESIC | Spanish | https://es.cointelegraph.com/news/uruguay-agesic-began-investigations-after-massive-theft-of-personal-data |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
