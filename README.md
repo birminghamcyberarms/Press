@@ -229,6 +229,9 @@
 | 212 | Tin Túc Vietnam | Data Breach: AGESIC | Vietnamese | https://baotintuc.vn/khoa-hoc-cong-nghe/chinh-phu-uruguay-dieu-tra-vu-tan-cong-mang-20250213120942947.htm | 
 | 213 | El Observador | Deepfakes in Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/las-estafas-uruguay-que-usan-deepfakes-y-que-facebook-desestima-n5984942 |
 | 214 | Coin Telegraph | Data Breach: AGESIC | Spanish | https://es.cointelegraph.com/news/uruguay-agesic-began-investigations-after-massive-theft-of-personal-data |
+| 215 | El Observador | Data Breach: AGESIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackeo-agesic-atacantes-ingresaron-credenciales-autorizadas-explotar-falla-n5986086 |
+| 216 | Caras y Caretas | Data Breach: AGESIC | Spanish | https://www.carasycaretas.com.uy/sociedad/agesic-explico-como-entraron-los-hackers-al-sistema-n81960 |
+| 217 | Montevideo Portal | Data Breach: AGESIC | Spanish | https://www.montevideo.com.uy/Noticias/Agesic-explico-los-primeros-resultados-de-informe-sobre-filtracion-de-datos--que-paso--uc915490 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
