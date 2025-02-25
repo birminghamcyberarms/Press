@@ -232,6 +232,7 @@
 | 215 | El Observador | Data Breach: AGESIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackeo-agesic-atacantes-ingresaron-credenciales-autorizadas-explotar-falla-n5986086 |
 | 216 | Caras y Caretas | Data Breach: AGESIC | Spanish | https://www.carasycaretas.com.uy/sociedad/agesic-explico-como-entraron-los-hackers-al-sistema-n81960 |
 | 217 | Montevideo Portal | Data Breach: AGESIC | Spanish | https://www.montevideo.com.uy/Noticias/Agesic-explico-los-primeros-resultados-de-informe-sobre-filtracion-de-datos--que-paso--uc915490 |
+| 218 | El Observador | Ransomware negotiations | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-arte-pactar-el-diablo-asi-negocian-los-uruguayos-ciberdelincuentes-n5986635 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
