@@ -234,6 +234,7 @@
 | 217 | Montevideo Portal | Data Breach: AGESIC | Spanish | https://www.montevideo.com.uy/Noticias/Agesic-explico-los-primeros-resultados-de-informe-sobre-filtracion-de-datos--que-paso--uc915490 |
 | 218 | El Observador | Ransomware negotiations | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-arte-pactar-el-diablo-asi-negocian-los-uruguayos-ciberdelincuentes-n5986635 |
 | 219 | Telenoche | Vulnerability: UDELAR & INDT | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/hackers-pusieron-la-venta-una-vulnerabilidad-hallada-el-sistema-colibri-la-udelar-n5381215 |
+| 220 | El Observador | Data Breach: ASSE | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/asse-investiga-un-presunto-hackeo-que-implico-la-posibilidad-eliminar-o-anadir-recetas-medicas-al-sistema-n5988870 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
