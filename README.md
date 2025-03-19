@@ -235,6 +235,7 @@
 | 218 | El Observador | Ransomware negotiations | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-arte-pactar-el-diablo-asi-negocian-los-uruguayos-ciberdelincuentes-n5986635 |
 | 219 | Telenoche | Vulnerability: UDELAR & INDT | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/hackers-pusieron-la-venta-una-vulnerabilidad-hallada-el-sistema-colibri-la-udelar-n5381215 |
 | 220 | El Observador | Data Breach: ASSE | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/asse-investiga-un-presunto-hackeo-que-implico-la-posibilidad-eliminar-o-anadir-recetas-medicas-al-sistema-n5988870 |
+| 221 | El Observador | Data Breach: MIDES | Spanish | https://www.elobservador.com.uy/filtran-fotos-casi-300-cedulas-identidad-y-libretas-conducir-y-documentos-sensibles-del-mides-n5990480 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
