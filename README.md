@@ -240,6 +240,7 @@
 | 223 | Montevideo Portal | Data Breach: MIDES | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Ahora-le-toco-al-Mides-hackers-filtraron-informacion-de-cedulas-de-cientos-de-uruguayos-uc918172 |
 | 224 | Teledoce | Data Breach: MIDES | Spanish | https://www.teledoce.com/telemundo/nacionales/investigan-presunto-ciberataque-contra-el-mides-hacker-dijo-que-filtro-cientos-de-documentos-de-la-cartera/ |
 | 225 | Caras y Caretas | Data Breach: MIDES | Spanish | https://www.carasycaretas.com.uy/politica/ya-van-tres-ahora-fue-hackeada-la-pagina-web-del-mides-y-se-filtraron-documentos-confidenciales-n82764 |
+| 226 | El País | Data Breach: MIDES | Spanish | https://www.elpais.com.uy/informacion/sociedad/mides-investiga-junto-a-agesic-la-divulgacion-de-documentos-sensibles-tras-el-hackeo-a-la-dinacia |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
