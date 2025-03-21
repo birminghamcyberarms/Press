@@ -236,6 +236,10 @@
 | 219 | Telenoche | Vulnerability: UDELAR & INDT | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/hackers-pusieron-la-venta-una-vulnerabilidad-hallada-el-sistema-colibri-la-udelar-n5381215 |
 | 220 | El Observador | Data Breach: ASSE | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/asse-investiga-un-presunto-hackeo-que-implico-la-posibilidad-eliminar-o-anadir-recetas-medicas-al-sistema-n5988870 |
 | 221 | El Observador | Data Breach: MIDES | Spanish | https://www.elobservador.com.uy/filtran-fotos-casi-300-cedulas-identidad-y-libretas-conducir-y-documentos-sensibles-del-mides-n5990480 |
+| 222 | Brecha | Interview: Mauro Eldritch | Spanish | https://brecha.uy/el-aumento-de-ataques-es-notable/ |
+| 223 | Montevideo Portal | Data Breach: MIDES | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Ahora-le-toco-al-Mides-hackers-filtraron-informacion-de-cedulas-de-cientos-de-uruguayos-uc918172 |
+| 224 | Teledoce | Data Breach: MIDES | Spanish | https://www.teledoce.com/telemundo/nacionales/investigan-presunto-ciberataque-contra-el-mides-hacker-dijo-que-filtro-cientos-de-documentos-de-la-cartera/ |
+| 225 | Caras y Caretas | Data Breach: MIDES | Spanish | https://www.carasycaretas.com.uy/politica/ya-van-tres-ahora-fue-hackeada-la-pagina-web-del-mides-y-se-filtraron-documentos-confidenciales-n82764 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
