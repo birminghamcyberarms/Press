@@ -243,6 +243,7 @@
 | 226 | El País | Data Breach: MIDES | Spanish | https://www.elpais.com.uy/informacion/sociedad/mides-investiga-junto-a-agesic-la-divulgacion-de-documentos-sensibles-tras-el-hackeo-a-la-dinacia |
 | 227 | El Observador | Data Breach: Migraciones | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/filtran-15-mil-solicitudes-visa-extranjeros-que-pretendian-llegar-uruguay-la-mayoria-cubanos-y-pakistanies-n5991555 |
 | 228 | Montevideo Portal | Data Breach: Migraciones | Spanish | https://www.montevideo.com.uy/Noticias/Direccion-de-Migraciones-fue-hackeada-se-filtro-informacion-de-15-mil-solicitudes-de-visa-uc918858 |
+| 229 | El País | Data Breach: Migraciones | Spanish | https://www.elpais.com.uy/informacion/policiales/direccion-de-migraciones-sufrio-una-filtracion-de-datos-de-mas-de-15-000-solicitudes-de-visa-a-uruguay |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
