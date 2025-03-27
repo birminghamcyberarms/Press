@@ -246,6 +246,7 @@
 | 229 | El País | Data Breach: Migraciones | Spanish | https://www.elpais.com.uy/informacion/policiales/direccion-de-migraciones-sufrio-una-filtracion-de-datos-de-mas-de-15-000-solicitudes-de-visa-a-uruguay |
 | 230 | La Red 21 | Data Breach: Migraciones | Spanish | https://www.lr21.com.uy/comunidad/1482362-hackers-vulneraron-direccion-migraciones-uruguay |
 | 231 | Telenoche | Data Breach: Migraciones | Spanish | https://www.telenoche.com.uy/nacionales/filtracion-datos-la-direccion-migraciones-exponen-mas-15000-solicitudes-visa-uruguay-n5382060 |
+| 232 | NK News | About Chaotic Capybara Malware | English | https://www.nknews.org/pro/north-korea-hackers-go-after-business-executives-in-latest-info-stealing-scheme/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
