@@ -245,6 +245,7 @@
 | 228 | Montevideo Portal | Data Breach: Migraciones | Spanish | https://www.montevideo.com.uy/Noticias/Direccion-de-Migraciones-fue-hackeada-se-filtro-informacion-de-15-mil-solicitudes-de-visa-uc918858 |
 | 229 | El País | Data Breach: Migraciones | Spanish | https://www.elpais.com.uy/informacion/policiales/direccion-de-migraciones-sufrio-una-filtracion-de-datos-de-mas-de-15-000-solicitudes-de-visa-a-uruguay |
 | 230 | La Red 21 | Data Breach: Migraciones | Spanish | https://www.lr21.com.uy/comunidad/1482362-hackers-vulneraron-direccion-migraciones-uruguay |
+| 231 | Telenoche | Data Breach: Migraciones | Spanish | https://www.telenoche.com.uy/nacionales/filtracion-datos-la-direccion-migraciones-exponen-mas-15000-solicitudes-visa-uruguay-n5382060 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
