@@ -247,6 +247,8 @@
 | 230 | La Red 21 | Data Breach: Migraciones | Spanish | https://www.lr21.com.uy/comunidad/1482362-hackers-vulneraron-direccion-migraciones-uruguay |
 | 231 | Telenoche | Data Breach: Migraciones | Spanish | https://www.telenoche.com.uy/nacionales/filtracion-datos-la-direccion-migraciones-exponen-mas-15000-solicitudes-visa-uruguay-n5382060 |
 | 232 | NK News | About Chaotic Capybara Malware | English | https://www.nknews.org/pro/north-korea-hackers-go-after-business-executives-in-latest-info-stealing-scheme/ |
+| 233 | El País | Data Breach: Fiscalía de Uruguay | Spanish | https://www.elpais.com.uy/informacion/policiales/se-reporto-intento-de-ataque-a-la-web-de-fiscalia-el-ente-activo-los-protocolos-de-seguridad |
+| 234 | El País | Data Breach: Masonería de Uruguay | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-filtraron-13-gb-de-archivos-de-la-masoneria-uruguaya-los-datos-revelados-y-quien-esta-detras |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
