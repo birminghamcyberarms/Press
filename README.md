@@ -249,6 +249,8 @@
 | 232 | NK News | About Chaotic Capybara Malware | English | https://www.nknews.org/pro/north-korea-hackers-go-after-business-executives-in-latest-info-stealing-scheme/ |
 | 233 | El País | Data Breach: Fiscalía de Uruguay | Spanish | https://www.elpais.com.uy/informacion/policiales/se-reporto-intento-de-ataque-a-la-web-de-fiscalia-el-ente-activo-los-protocolos-de-seguridad |
 | 234 | El País | Data Breach: Masonería de Uruguay | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-filtraron-13-gb-de-archivos-de-la-masoneria-uruguaya-los-datos-revelados-y-quien-esta-detras |
+| 235 | M24 | Data Breach: Fiscalía de Uruguay | Spanish | https://www.m24.com.uy/fiscalia-aseguro-que-todos-sus-sistemas-operan-con-normalidad-tras-supuesto-ciberataque/ |
+| 236 | Telenoche | Data Breach: Masonería de Uruguay | Spanish | https://www.telenoche.com.uy/sociedad/filtran-y-venden-internet-datos-la-masoneria-uruguaya-n5382263 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
