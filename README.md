@@ -251,6 +251,7 @@
 | 234 | El País | Data Breach: Masonería de Uruguay | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-filtraron-13-gb-de-archivos-de-la-masoneria-uruguaya-los-datos-revelados-y-quien-esta-detras |
 | 235 | M24 | Data Breach: Fiscalía de Uruguay | Spanish | https://www.m24.com.uy/fiscalia-aseguro-que-todos-sus-sistemas-operan-con-normalidad-tras-supuesto-ciberataque/ |
 | 236 | Telenoche | Data Breach: Masonería de Uruguay | Spanish | https://www.telenoche.com.uy/sociedad/filtran-y-venden-internet-datos-la-masoneria-uruguaya-n5382263 |
+| 237 | Caras y Caretas | Data Breach: UDELAR | Spanish | https://www.carasycaretas.com.uy/sociedad/hackers-ponen-la-venta-datos-personales-docentes-la-udelar-n83104 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
