@@ -252,6 +252,11 @@
 | 235 | M24 | Data Breach: Fiscalía de Uruguay | Spanish | https://www.m24.com.uy/fiscalia-aseguro-que-todos-sus-sistemas-operan-con-normalidad-tras-supuesto-ciberataque/ |
 | 236 | Telenoche | Data Breach: Masonería de Uruguay | Spanish | https://www.telenoche.com.uy/sociedad/filtran-y-venden-internet-datos-la-masoneria-uruguaya-n5382263 |
 | 237 | Caras y Caretas | Data Breach: UDELAR | Spanish | https://www.carasycaretas.com.uy/sociedad/hackers-ponen-la-venta-datos-personales-docentes-la-udelar-n83104 |
+| 238 | El País | Data Breach: UDELAR | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-pusieron-a-la-venta-datos-de-profesores-de-la-udelar-incluye-mails-clases-y-numeros-de-telefono |
+| 239 | Montevideo Portal | Data Breach: UDELAR | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Hackers-pusieron-a-la-venta-datos-personales-de-mas-de-500-docentes-de-la-Udelar-uc919429 |
+| 240 | Telenoche | Data Breach: UDELAR | Spanish | https://www.telenoche.com.uy/nacionales/nueva-filtracion-datos-hackers-publican-informacion-profesores-la-udelar-n5382324 |
+| 241 | Debate UY | Data Breach: UDELAR | Spanish | https://www.debate.com.uy/seguridad/Hackers-filtraron-datos-de-profesores-de-la-Udelar-y-los-pusieron-a-la-venta-20250401-0043.html |
+| 242 | Caras t Caretas | Data Breach: Masonería de Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/masoneria-del-uruguay-apunta-uno-sus-miembros-filtracion-informacion-sensible-la-logia-n83111 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
