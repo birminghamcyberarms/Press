@@ -256,7 +256,8 @@
 | 239 | Montevideo Portal | Data Breach: UDELAR | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Hackers-pusieron-a-la-venta-datos-personales-de-mas-de-500-docentes-de-la-Udelar-uc919429 |
 | 240 | Telenoche | Data Breach: UDELAR | Spanish | https://www.telenoche.com.uy/nacionales/nueva-filtracion-datos-hackers-publican-informacion-profesores-la-udelar-n5382324 |
 | 241 | Debate UY | Data Breach: UDELAR | Spanish | https://www.debate.com.uy/seguridad/Hackers-filtraron-datos-de-profesores-de-la-Udelar-y-los-pusieron-a-la-venta-20250401-0043.html |
-| 242 | Caras t Caretas | Data Breach: Masonería de Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/masoneria-del-uruguay-apunta-uno-sus-miembros-filtracion-informacion-sensible-la-logia-n83111 |
+| 242 | Caras y Caretas | Data Breach: Masonería de Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/masoneria-del-uruguay-apunta-uno-sus-miembros-filtracion-informacion-sensible-la-logia-n83111 |
+| 243 | 450 FM France | Data Breach: Masonería de Uruguay | French | https://450.fm/2025/04/03/piratage-13-go-dinformations-ont-fuite-de-la-franc-maconnerie-uruguayenne/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
