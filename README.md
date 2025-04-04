@@ -258,6 +258,7 @@
 | 241 | Debate UY | Data Breach: UDELAR | Spanish | https://www.debate.com.uy/seguridad/Hackers-filtraron-datos-de-profesores-de-la-Udelar-y-los-pusieron-a-la-venta-20250401-0043.html |
 | 242 | Caras y Caretas | Data Breach: Masonería de Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/masoneria-del-uruguay-apunta-uno-sus-miembros-filtracion-informacion-sensible-la-logia-n83111 |
 | 243 | 450 FM France | Data Breach: Masonería de Uruguay | French | https://450.fm/2025/04/03/piratage-13-go-dinformations-ont-fuite-de-la-franc-maconnerie-uruguayenne/ |
+| 244 | Diario Clarín | Data Extortion: Informe Medico | Spanish | https://www.clarin.com/tecnologia/hackean-proveedor-software-medico-argentina-venden-resultados-estudios-pacientes_0_HmJFy0ZYib.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
