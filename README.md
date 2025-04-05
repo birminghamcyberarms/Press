@@ -259,6 +259,8 @@
 | 242 | Caras y Caretas | Data Breach: Masonería de Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/masoneria-del-uruguay-apunta-uno-sus-miembros-filtracion-informacion-sensible-la-logia-n83111 |
 | 243 | 450 FM France | Data Breach: Masonería de Uruguay | French | https://450.fm/2025/04/03/piratage-13-go-dinformations-ont-fuite-de-la-franc-maconnerie-uruguayenne/ |
 | 244 | Diario Clarín | Data Extortion: Informe Medico | Spanish | https://www.clarin.com/tecnologia/hackean-proveedor-software-medico-argentina-venden-resultados-estudios-pacientes_0_HmJFy0ZYib.html |
+| 245 | Diario Perfil | Data Extortion: Informe Medico | Spanish | https://www.perfil.com/noticias/cordoba/ciberdelitos-la-mayor-filtracion-de-datos-medicos-de-argentina-afecto-a-clinicas-privadas-de-cordoba.phtml |
+| 246 | Diario La Voz | Data Extortion: Informe Medico | Spanish | https://www.lavoz.com.ar/sucesos/hackearon-a-un-proveedor-de-software-medico-en-argentina-y-venden-665-mil-datos-personales-de-pacientes/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
