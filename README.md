@@ -261,6 +261,14 @@
 | 244 | Diario Clarín | Data Extortion: Informe Medico | Spanish | https://www.clarin.com/tecnologia/hackean-proveedor-software-medico-argentina-venden-resultados-estudios-pacientes_0_HmJFy0ZYib.html |
 | 245 | Diario Perfil | Data Extortion: Informe Medico | Spanish | https://www.perfil.com/noticias/cordoba/ciberdelitos-la-mayor-filtracion-de-datos-medicos-de-argentina-afecto-a-clinicas-privadas-de-cordoba.phtml |
 | 246 | Diario La Voz | Data Extortion: Informe Medico | Spanish | https://www.lavoz.com.ar/sucesos/hackearon-a-un-proveedor-de-software-medico-en-argentina-y-venden-665-mil-datos-personales-de-pacientes/ |
+| 247 | El País | Defacement: Diario El País | Spanish | https://www.elpais.com.uy/informacion/policiales/hackearon-el-sitio-web-de-el-pais-durante-la-madrugada-desde-la-manana-se-encuentra-totalmente-operativo |
+| 248 | Tiempo Argentino | Data Extortion: Informe Medico | Spanish | https://www.tiempoar.com.ar/ta_article/hackean-665-128-estudios-medicos-la-filtracion-de-datos-de-salud-mas-grande-del-pais/ |
+| 249 | La Arena | Data Extortion: Informe Medico | Spanish | https://www.laarena.com.ar/la-pampa/hackean-clinicas-hay-una-pampeana-afectada-en-el-ataque-mas-grande-del-pais-20254511590 |
+| 250 | Cuarto | Data Extortion: Informe Medico | Spanish | https://www.cuarto.com.ar/hackeo-masivo-robaron-mas-de-665-mil-estudios-medicos-en-clinicas-de-todo-el-pais/ |
+| 251 | Resumen Latinoamericano | Data Extortion: Informe Medico | Spanish | https://www.resumenlatinoamericano.org/2025/04/05/argentina-filtracion-masiva-de-datos-medicos-sacude-al-sector-privado-de-salud/ |
+| 252 | La Tecla Mar del Plata | Data Extortion: Informe Medico | Spanish | https://www.lateclamardelplata.com.ar/56202-hackearon-a-un-proveedor-de-software-medico-y-venden-resultados-de-estudios-de-pacientes |
+| 253 | En Boca de Todos HD | Data Extortion: Informe Medico | Spanish | https://www.enbocadetodoshd.com.ar/salud/2025/4/5/una-pampeana-esta-entre-las-afectadas-en-el-mayor-ataque-cibernetico-del-pais-104380.html |
+| 254 | TeleSur | Data Extortion: Informe Medico | Spanish | https://www.tn8.tv/america-latina/exponen-informacion-confidencial-de-pacientes-y-medicos-en-argentina/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
