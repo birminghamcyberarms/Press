@@ -273,6 +273,8 @@
 | 256 | El País | Data Breach: MIDES | Spanish | https://www.elpais.com.uy/informacion/policiales/nuevo-ciberataque-al-mides-filtraron-mas-de-37-000-documentos-con-informacion-personal-de-los-ciudadanos |
 | 257 | Telenoche | Data Breach: MIDES | Spanish | https://www.telenoche.com.uy/nacionales/ciberdelincuentes-filtraron-casi-38000-documentos-datos-personales-usuarios-del-mides-n5382593 |
 | 258 | Caras y Caretas | Data Breach: MIDES | Spanish | https://www.carasycaretas.com.uy/sociedad/mides-sufrio-un-ciberataque-y-filtran-datos-personales-miles-usuarios-n83277 |
+| 259 | Infobae | Data Breach: MIDES | Spanish | https://www.infobae.com/america/america-latina/2025/04/08/mas-de-37-mil-documentos-filtrados-en-un-nuevo-ciberataque-a-un-ministerio-en-uruguay/ |
+| 260 | Debate UY | Data Breach: MIDES | Spanish | https://www.debate.com.uy/actualidad/Filtracion-masiva-en-Mides-mas-de-37-mil-documentos-con-datos-sensibles-20250408-0001.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
