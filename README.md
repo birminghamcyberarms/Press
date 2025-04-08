@@ -269,6 +269,10 @@
 | 252 | La Tecla Mar del Plata | Data Extortion: Informe Medico | Spanish | https://www.lateclamardelplata.com.ar/56202-hackearon-a-un-proveedor-de-software-medico-y-venden-resultados-de-estudios-de-pacientes |
 | 253 | En Boca de Todos HD | Data Extortion: Informe Medico | Spanish | https://www.enbocadetodoshd.com.ar/salud/2025/4/5/una-pampeana-esta-entre-las-afectadas-en-el-mayor-ataque-cibernetico-del-pais-104380.html |
 | 254 | TeleSur | Data Extortion: Informe Medico | Spanish | https://www.tn8.tv/america-latina/exponen-informacion-confidencial-de-pacientes-y-medicos-en-argentina/ |
+| 255 | Montevideo Portal | Data Breach: MIDES | Spanish | https://www.montevideo.com.uy/Noticias/Filtran-mas-de-37-mil-documentos-del-Mides-con-datos-personales-en-nuevo-ciberataque-uc920071 |
+| 256 | El País | Data Breach: MIDES | Spanish | https://www.elpais.com.uy/informacion/policiales/nuevo-ciberataque-al-mides-filtraron-mas-de-37-000-documentos-con-informacion-personal-de-los-ciudadanos |
+| 257 | Telenoche | Data Breach: MIDES | Spanish | https://www.telenoche.com.uy/nacionales/ciberdelincuentes-filtraron-casi-38000-documentos-datos-personales-usuarios-del-mides-n5382593 |
+| 258 | Caras y Caretas | Data Breach: MIDES | Spanish | https://www.carasycaretas.com.uy/sociedad/mides-sufrio-un-ciberataque-y-filtran-datos-personales-miles-usuarios-n83277 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
