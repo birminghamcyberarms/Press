@@ -276,6 +276,7 @@
 | 259 | Infobae | Data Breach: MIDES | Spanish | https://www.infobae.com/america/america-latina/2025/04/08/mas-de-37-mil-documentos-filtrados-en-un-nuevo-ciberataque-a-un-ministerio-en-uruguay/ |
 | 260 | Debate UY | Data Breach: MIDES | Spanish | https://www.debate.com.uy/actualidad/Filtracion-masiva-en-Mides-mas-de-37-mil-documentos-con-datos-sensibles-20250408-0001.html |
 | 261 | Brodersen Dark News | Data Breach: Informe Medico | Spanish | https://www.brodersendarknews.com/p/venden-estudios-pacientes-informe-medico-filtracion?open=false#§informe-medico-hackean-a-un-proveedor-de-software-de-salud |
+| 262 | El Observador | Data Breach: Cibercrimen | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/quienes-estan-detras-del-hackeo-la-web-la-dinacia-y-como-una-persona-los-delato-n5994441 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
