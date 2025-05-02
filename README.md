@@ -278,6 +278,7 @@
 | 261 | Brodersen Dark News | Data Breach: Informe Medico | Spanish | https://www.brodersendarknews.com/p/venden-estudios-pacientes-informe-medico-filtracion?open=false#§informe-medico-hackean-a-un-proveedor-de-software-de-salud |
 | 262 | El Observador | Data Breach: Cibercrimen | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/quienes-estan-detras-del-hackeo-la-web-la-dinacia-y-como-una-persona-los-delato-n5994441 |
 | 263 | INCIBE | Data Breach: Informe Medico | Spanish | https://www.incibe.es/incibe-cert/publicaciones/bitacora-de-seguridad/filtracion-de-datos-con-mas-de-665000-estudios-medicos-en-argentina |
+| 264 | Dark News | BreachForums Takedown | Spanish | https://www.brodersendarknews.com/p/breachforums-caida-sitio-compraventa-intelbroker-anastasia-shinyhunters |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
