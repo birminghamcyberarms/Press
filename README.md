@@ -279,6 +279,7 @@
 | 262 | El Observador | Data Breach: Cibercrimen | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/quienes-estan-detras-del-hackeo-la-web-la-dinacia-y-como-una-persona-los-delato-n5994441 |
 | 263 | INCIBE | Data Breach: Informe Medico | Spanish | https://www.incibe.es/incibe-cert/publicaciones/bitacora-de-seguridad/filtracion-de-datos-con-mas-de-665000-estudios-medicos-en-argentina |
 | 264 | Dark News | BreachForums Takedown | Spanish | https://www.brodersendarknews.com/p/breachforums-caida-sitio-compraventa-intelbroker-anastasia-shinyhunters |
+| 265 | Diario Clarín | Data Breach: Ejército Argentino | Spanish | https://www.clarin.com/tecnologia/investigan-supuesto-hackeo-ejercito-datos-venta-sirven_0_F8Ddu1pYEL.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
