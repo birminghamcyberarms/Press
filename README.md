@@ -281,6 +281,14 @@
 | 264 | Dark News | BreachForums Takedown | Spanish | https://www.brodersendarknews.com/p/breachforums-caida-sitio-compraventa-intelbroker-anastasia-shinyhunters |
 | 265 | Diario Clarín | Data Breach: Ejército Argentino | Spanish | https://www.clarin.com/tecnologia/investigan-supuesto-hackeo-ejercito-datos-venta-sirven_0_F8Ddu1pYEL.html |
 
+| 266 | Dark News | Data Breach: Ejército Argentino | Spanish | https://www.brodersendarknews.com/i/163398465/venden-informacion-del-ejercito-argentino-que-datos-dice-tener-el-atacante-y-que-riesgos-implica |
+| 267 | Data Clave | Data Breach: Ejército Argentino | Spanish | https://www.dataclave.com.ar/poder/venta-de-datos-de-50-mil-militares--que-detalles-hay-sobre-el-presunto-hackeo-a-sistemas-del-ejercito_a68261bfb912d9295c35cebe0 |
+| 268 | Página 12 | Data Breach: Ejército Argentino | Spanish | https://www.pagina12.com.ar/826038-crece-la-preocupacion-por-un-hackeo-a-las-bases-de-datos-del |
+| 269 | Urgente24 | Data Breach: Ejército Argentino | Spanish | https://urgente24.com/actualidad/politica/mas-problemas-petri-investigan-un-hackeo-al-ejercito-argentino-n601559 |
+| 270 | Urgente24 | Data Breach: Ejército Argentino | Spanish | https://urgente24.com/actualidad/hackeo-al-ejercito-y-la-situacion-del-comando-ciberdefensa-n601576 |
+| 271 | Cenital | Data Breach: Ejército Argentino | Spanish | https://cenital.com/el-ejercito-argentino-investiga-un-presunto-ciberataque-en-el-que-se-habrian-filtrado-datos-de-50-000-militares/ |
+| 272 | Perfil | Data Breach: Ejército Argentino | Spanish | https://www.perfil.com/noticias/bravotv/hackeo-masivo-al-ejercito-filtraron-legajos-de-cincuenta-mil-agentes.phtml |
+
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
 |---|---|---|---|---|
