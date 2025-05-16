@@ -280,7 +280,6 @@
 | 263 | INCIBE | Data Breach: Informe Medico | Spanish | https://www.incibe.es/incibe-cert/publicaciones/bitacora-de-seguridad/filtracion-de-datos-con-mas-de-665000-estudios-medicos-en-argentina |
 | 264 | Dark News | BreachForums Takedown | Spanish | https://www.brodersendarknews.com/p/breachforums-caida-sitio-compraventa-intelbroker-anastasia-shinyhunters |
 | 265 | Diario Clarín | Data Breach: Ejército Argentino | Spanish | https://www.clarin.com/tecnologia/investigan-supuesto-hackeo-ejercito-datos-venta-sirven_0_F8Ddu1pYEL.html |
-
 | 266 | Dark News | Data Breach: Ejército Argentino | Spanish | https://www.brodersendarknews.com/i/163398465/venden-informacion-del-ejercito-argentino-que-datos-dice-tener-el-atacante-y-que-riesgos-implica |
 | 267 | Data Clave | Data Breach: Ejército Argentino | Spanish | https://www.dataclave.com.ar/poder/venta-de-datos-de-50-mil-militares--que-detalles-hay-sobre-el-presunto-hackeo-a-sistemas-del-ejercito_a68261bfb912d9295c35cebe0 |
 | 268 | Página 12 | Data Breach: Ejército Argentino | Spanish | https://www.pagina12.com.ar/826038-crece-la-preocupacion-por-un-hackeo-a-las-bases-de-datos-del |
