@@ -288,6 +288,7 @@
 | 270 | Urgente24 | Data Breach: Ejército Argentino | Spanish | https://urgente24.com/actualidad/hackeo-al-ejercito-y-la-situacion-del-comando-ciberdefensa-n601576 |
 | 271 | Cenital | Data Breach: Ejército Argentino | Spanish | https://cenital.com/el-ejercito-argentino-investiga-un-presunto-ciberataque-en-el-que-se-habrian-filtrado-datos-de-50-000-militares/ |
 | 272 | Perfil | Data Breach: Ejército Argentino | Spanish | https://www.perfil.com/noticias/bravotv/hackeo-masivo-al-ejercito-filtraron-legajos-de-cincuenta-mil-agentes.phtml |
+| 273 | Total News Agency | Data Breach: Ejército Argentino | Spanish | https://totalnewsagency.com/2025/05/13/ataque-critico-hackearon-al-ministerio-de-defensa-y-ponen-a-la-venta-los-datos-de-50-mil-efectivos-y-sus-familias/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
