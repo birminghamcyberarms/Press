@@ -288,6 +288,12 @@
 | 271 | Cenital | Data Breach: Ejército Argentino | Spanish | https://cenital.com/el-ejercito-argentino-investiga-un-presunto-ciberataque-en-el-que-se-habrian-filtrado-datos-de-50-000-militares/ |
 | 272 | Perfil | Data Breach: Ejército Argentino | Spanish | https://www.perfil.com/noticias/bravotv/hackeo-masivo-al-ejercito-filtraron-legajos-de-cincuenta-mil-agentes.phtml |
 | 273 | Total News Agency | Data Breach: Ejército Argentino | Spanish | https://totalnewsagency.com/2025/05/13/ataque-critico-hackearon-al-ministerio-de-defensa-y-ponen-a-la-venta-los-datos-de-50-mil-efectivos-y-sus-familias/ |
+| 274 | Montevideo Portal | Data Breach: SUCIVE | Spanish | https://www.montevideo.com.uy/Noticias/Hackers-venden-en-internet-base-de-datos-del-Sucive-con-informacion-de-618-000-usuarios-uc925630 |
+| 275 | Subrayado | Data Breach: SUCIVE | Spanish | https://www.subrayado.com.uy/sucive-hackeo-no-existe-evidencia-alguna-que-sea-un-incidente-seguridad-la-plataforma-n978550 |
+| 276 | El País | Data Breach: SUCIVE | Spanish | https://www.elpais.com.uy/informacion/policiales/hackearon-base-de-datos-de-sucive-y-exministro-del-interior-dio-duro-mensaje-nos-gobierna-el-fa |
+| 277 | M24 | Data Breach: SUCIVE | Spanish | https://www.m24.com.uy/sucive-senalo-que-no-existe-evidencia-alguna-de-que-sea-un-incidente-de-seguridad-de-la-plataforma/ |
+| 278 | La Red 21 | Data Breach: SUCIVE | Spanish | https://www.lr21.com.uy/politica/1484199-web-sucive-hackers-vulnerada |
+| 279 | El Observador | Data Breach: SUCIVE | Spanish | https://www.elobservador.com.uy/nacional/denuncian-hackeo-sucive-filtracion-mas-600000-documentos-organismo-niega-incidente-seguridad-su-web-n6002157 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
