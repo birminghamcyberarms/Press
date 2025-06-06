@@ -294,6 +294,7 @@
 | 277 | M24 | Data Breach: SUCIVE | Spanish | https://www.m24.com.uy/sucive-senalo-que-no-existe-evidencia-alguna-de-que-sea-un-incidente-de-seguridad-de-la-plataforma/ |
 | 278 | La Red 21 | Data Breach: SUCIVE | Spanish | https://www.lr21.com.uy/politica/1484199-web-sucive-hackers-vulnerada |
 | 279 | El Observador | Data Breach: SUCIVE | Spanish | https://www.elobservador.com.uy/nacional/denuncian-hackeo-sucive-filtracion-mas-600000-documentos-organismo-niega-incidente-seguridad-su-web-n6002157 |
+| 280 | El País | Data Breach: Ministerio de Trabajo y Seguridad Social | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-pusieron-a-la-venta-mas-de-350-000-datos-del-ministerio-de-trabajo-la-cartera-investiga-el-caso |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
