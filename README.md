@@ -297,6 +297,14 @@
 | 280 | El País | Data Breach: Ministerio de Trabajo y Seguridad Social | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-pusieron-a-la-venta-mas-de-350-000-datos-del-ministerio-de-trabajo-la-cartera-investiga-el-caso |
 | 281 | El Observador | Data Breach: Ministerio de Trabajo y Seguridad Social | Spanish | https://www.elobservador.com.uy/nacional/correos-cedulas-identidad-y-numeros-celulares-hackers-pusieron-la-venta-mas-300000-archivos-del-mtss-n6003083 |
 | 282 | RealPolitik | Data Breach: Ministerio de Trabajo y Seguridad Social | Spanish | https://realpolitik.com.ar/nota/66848/hackearon-la-base-del-banco-central-con-informacion-de-19-millones-de-clientes/ |
+| 283 | Diario Clarín | Data Breach: MiArgentina | Spanish | https://www.clarin.com/tecnologia/hackers-robaron-datos-13000-usuarios-argentina-informacion-sensible-cuentas_0_nQHeoKHSS9.html |
+| 284 | Memo | Data Breach: MiArgentina | Spanish | https://www.memo.com.ar/economia/hackeo-a-mi-argentina-robaron-datos-de-casi-13-000-usuarios/ |
+| 285 | Los Andes | Data Breach: MiArgentina | Spanish | https://www.losandes.com.ar/sociedad/hackeo-mi-argentina-robaron-datos-casi-13000-usuarios-y-el-gobierno-minimizo-el-ataque-n5953444 |
+| 286 | La Provincia de San Juan | Data Breach: MiArgentina | Spanish | https://diariolaprovinciasj.com/el-pais/preocupacion-por-el-ciberataque-a-mi-argentina-que-datos-habian-en-las-13-000-cuentas-238030/ |
+| 287 | La 100 | Data Breach: MiArgentina | Spanish | https://la100.cienradios.com/sociedad/hackearon-los-datos-de-13-mil-usuarios-de-la-app-mi-argentina-que-informacion-sensible-habia-en-las-cuentas/ |
+| 288 | Contexto Tucumán | Data Breach: MiArgentina | Spanish | https://www.contextotucuman.com/nota/352215/hackers-robaron-datos-de-casi-13-000-usuarios-de-mi-argentina-que-informacion-sensible-habia-.html |
+| 289 | Fénix 951 | Data Breach: MiArgentina | Spanish | https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=309172 |
+| 290 | El nueve | Data Breach: MiArgentina | Spanish | https://www.elnueve.com/contenidos/hackeo-en-mi-argentina-roban-datos-personales-de-miles-de-usuarios_20250628/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
