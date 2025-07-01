@@ -305,6 +305,7 @@
 | 288 | Contexto Tucumán | Data Breach: MiArgentina | Spanish | https://www.contextotucuman.com/nota/352215/hackers-robaron-datos-de-casi-13-000-usuarios-de-mi-argentina-que-informacion-sensible-habia-.html |
 | 289 | Fénix 951 | Data Breach: MiArgentina | Spanish | https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=309172 |
 | 290 | El nueve | Data Breach: MiArgentina | Spanish | https://www.elnueve.com/contenidos/hackeo-en-mi-argentina-roban-datos-personales-de-miles-de-usuarios_20250628/ |
+| 291 | El Observador | Data Breach: Vacunación Covid | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/atacantes-filtran-datos-16-millones-usuarios-uruguayos-n6006467 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
