@@ -307,6 +307,7 @@
 | 290 | El nueve | Data Breach: MiArgentina | Spanish | https://www.elnueve.com/contenidos/hackeo-en-mi-argentina-roban-datos-personales-de-miles-de-usuarios_20250628/ |
 | 291 | El Observador | Data Breach: Vacunación Covid | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/atacantes-filtran-datos-16-millones-usuarios-uruguayos-n6006467 |
 | 292 | El País | Data Breach: OPP | Spanish | https://www.elpais.com.uy/informacion/policiales/opp-informo-que-sufrio-un-acceso-no-autorizado-a-sus-archivos-y-activo-protocolo-de-seguridad |
+| 293 | Montevideo Portal | Data Breach: OPP | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/OPP-sufrio-ciberataque-y-se-filtraron-170-GB-de-archivos--incluidas-reuniones-de-Zoom-uc934400 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
