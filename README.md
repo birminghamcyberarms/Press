@@ -309,6 +309,7 @@
 | 292 | El País | Data Breach: OPP | Spanish | https://www.elpais.com.uy/informacion/policiales/opp-informo-que-sufrio-un-acceso-no-autorizado-a-sus-archivos-y-activo-protocolo-de-seguridad |
 | 293 | Montevideo Portal | Data Breach: OPP | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/OPP-sufrio-ciberataque-y-se-filtraron-170-GB-de-archivos--incluidas-reuniones-de-Zoom-uc934400 |
 | 294 | El Observador | Data Breach: OPP | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtran-170-gb-informacion-la-oficina-planeamiento-y-presupuesto-n6014373 |
+| 295 | La Diaria | Data Breach: OPP | Spanish | https://ladiaria.com.uy/politica/articulo/2025/8/opp-denunciara-ante-la-justicia-el-ataque-cibernetico-que-sufrio/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
