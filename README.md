@@ -311,6 +311,7 @@
 | 294 | El Observador | Data Breach: OPP | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtran-170-gb-informacion-la-oficina-planeamiento-y-presupuesto-n6014373 |
 | 295 | La Diaria | Data Breach: OPP | Spanish | https://ladiaria.com.uy/politica/articulo/2025/8/opp-denunciara-ante-la-justicia-el-ataque-cibernetico-que-sufrio/ |
 | 296 | Debate UY | Data Breach: OPP | Spanish | https://www.debate.com.uy/actualidad/Uruguay-vuelve-a-ser-blanco-de-ciberataques-la-OPP-confirma-acceso-no-autorizado-a-sus-archivos-20250828-0015.html |
+| 297 | Dark News | Ransomware & Data Extortion | Spanish | https://www.brodersendarknews.com/i/172484683/ransomware-la-caida-de-los-grandes-causo-una-explosion-de-agrupaciones-y-un-nuevo-modelo-de-negocio |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
