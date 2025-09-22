@@ -312,6 +312,7 @@
 | 295 | La Diaria | Data Breach: OPP | Spanish | https://ladiaria.com.uy/politica/articulo/2025/8/opp-denunciara-ante-la-justicia-el-ataque-cibernetico-que-sufrio/ |
 | 296 | Debate UY | Data Breach: OPP | Spanish | https://www.debate.com.uy/actualidad/Uruguay-vuelve-a-ser-blanco-de-ciberataques-la-OPP-confirma-acceso-no-autorizado-a-sus-archivos-20250828-0015.html |
 | 297 | Dark News | Ransomware & Data Extortion | Spanish | https://www.brodersendarknews.com/i/172484683/ransomware-la-caida-de-los-grandes-causo-una-explosion-de-agrupaciones-y-un-nuevo-modelo-de-negocio |
+| 298 | Subrayado | Data Breach: Corte Electoral | Spanish | https://www.subrayado.com.uy/ciberdelincuentes-afirman-haber-accedido-mas-620000-registros-corte-electoral-el-organismo-dice-que-no-detecto-hackeo-n988401 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
