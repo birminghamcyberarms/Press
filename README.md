@@ -315,6 +315,7 @@
 | 298 | Subrayado | Data Breach: Corte Electoral | Spanish | https://www.subrayado.com.uy/ciberdelincuentes-afirman-haber-accedido-mas-620000-registros-corte-electoral-el-organismo-dice-que-no-detecto-hackeo-n988401 |
 | 299 | Telenoche | Data Breach: Corte Electoral | Spanish | https://www.telenoche.com.uy/nacionales/hackeo-la-corte-electoral-el-organismo-denuncio-el-incidente-y-reforzo-las-medidas-seguridad-n5389983 |
 | 300 | Xataka | BCA LTD & Nerdearla | Spanish | https://www.xataka.com.ar/eventos/nerdearla-buenos-aires-ciencia-tecnologia-ia-desarrollo-software-evento-gratuito-que-inicia-23-septiembre |
+| 301 | El Observador | Data Breach: Corte Electoral | Spanish | https://www.elobservador.com.uy/nacional/ciberdelincuentes-aseguran-haber-atacado-la-corte-electoral-y-tener-datos-mas-620-mil-cedulas-y-credenciales-n6017997 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
