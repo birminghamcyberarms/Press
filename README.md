@@ -316,6 +316,8 @@
 | 299 | Telenoche | Data Breach: Corte Electoral | Spanish | https://www.telenoche.com.uy/nacionales/hackeo-la-corte-electoral-el-organismo-denuncio-el-incidente-y-reforzo-las-medidas-seguridad-n5389983 |
 | 300 | Xataka | BCA LTD & Nerdearla | Spanish | https://www.xataka.com.ar/eventos/nerdearla-buenos-aires-ciencia-tecnologia-ia-desarrollo-software-evento-gratuito-que-inicia-23-septiembre |
 | 301 | El Observador | Data Breach: Corte Electoral | Spanish | https://www.elobservador.com.uy/nacional/ciberdelincuentes-aseguran-haber-atacado-la-corte-electoral-y-tener-datos-mas-620-mil-cedulas-y-credenciales-n6017997 |
+| 302 | Montevideo Portal | Data Breach: Corte Electoral | Spanish | https://www.montevideo.com.uy/Noticias/Corte-Electoral-tomo-medidas-pertinentes-tras-ciberataque-que-filtro-620-mil-registros-uc937472 |
+| 303 | Grupo R Multimedio | Data Breach: Corte Electoral | Spanish | https://grupormultimedio.com/ciberdelincuentes-afirman-haber-accedido-a-620-000-registros-de-la-corte-electoral-id172983/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
