@@ -318,6 +318,7 @@
 | 301 | El Observador | Data Breach: Corte Electoral | Spanish | https://www.elobservador.com.uy/nacional/ciberdelincuentes-aseguran-haber-atacado-la-corte-electoral-y-tener-datos-mas-620-mil-cedulas-y-credenciales-n6017997 |
 | 302 | Montevideo Portal | Data Breach: Corte Electoral | Spanish | https://www.montevideo.com.uy/Noticias/Corte-Electoral-tomo-medidas-pertinentes-tras-ciberataque-que-filtro-620-mil-registros-uc937472 |
 | 303 | Grupo R Multimedio | Data Breach: Corte Electoral | Spanish | https://grupormultimedio.com/ciberdelincuentes-afirman-haber-accedido-a-620-000-registros-de-la-corte-electoral-id172983/ |
+| 304 | El Observador | Data Breach: ANEP & CREA | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/filtran-base-datos-ceibal-miles-registros-y-acceden-informacion-plataforma-crea-amenazan-que-es-la-punta-del-iceberg-n6018996 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
