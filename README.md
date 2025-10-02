@@ -320,6 +320,8 @@
 | 303 | Grupo R Multimedio | Data Breach: Corte Electoral | Spanish | https://grupormultimedio.com/ciberdelincuentes-afirman-haber-accedido-a-620-000-registros-de-la-corte-electoral-id172983/ |
 | 304 | El Observador | Data Breach: Ceibal | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/filtran-base-datos-ceibal-miles-registros-y-acceden-informacion-plataforma-crea-amenazan-que-es-la-punta-del-iceberg-n6018996 |
 | 305 | El Observador | Data Breach: ANEP | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberataque-anep-filtran-informacion-miles-docentes-estudiantes-y-funcionarios-n6019024 | 
+| 306 | Teledoce | Data Breach: ANEP & Ceibal | Spanish | https://www.teledoce.com/telemundo/nacionales/ciberataques-afectaron-con-filtraciones-de-datos-a-varias-instituciones-educativas-como-anep-ceibal-y-universidad-ort/ |
+| 307 | Cadena del Mar | Data Breach: ANEP | Spanish | https://cadenadelmar.uy/nacional/gran-filtracion-de-datos-sacude-al-sistema-educativo-uruguayo-ciberataque-a-la-anep-expone-informacion-personal-13336 | 
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
