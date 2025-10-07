@@ -324,6 +324,7 @@
 | 307 | Cadena del Mar | Data Breach: ANEP | Spanish | https://cadenadelmar.uy/nacional/gran-filtracion-de-datos-sacude-al-sistema-educativo-uruguayo-ciberataque-a-la-anep-expone-informacion-personal-13336 | 
 | 308 | El Observador | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-bhu-sufrio-el-robo-700-gb-datos-los-atacantes-piden-dinero-evitar-la-filtracion-n6019462 |
 | 309 | Teledoce | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.teledoce.com/telemundo/nacionales/ciberataque-al-banco-hipotecario-los-datos-sensibles-que-secuestraron-los-delincuentes-y-el-plazo-que-pusieron-para-no-divulgarlos/ |
+| 310 | El Observador | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberataque-al-bhu-la-web-continua-caida-seis-dias-inactividad-y-esto-informa-el-banco-n6019770 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
