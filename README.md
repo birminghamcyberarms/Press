@@ -327,6 +327,7 @@
 | 310 | El Observador | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberataque-al-bhu-la-web-continua-caida-seis-dias-inactividad-y-esto-informa-el-banco-n6019770 |
 | 311 | Ámbito Financiero | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.ambito.com/uruguay/el-bhu-lleva-seis-dias-web-recibir-un-hackeo-masivo-y-los-atacantes-amenazan-filtrar-datos-n6199087 |
 | 312 | Telenoche | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.telenoche.com.uy/nacionales/banco-hipotecario-extorsion-informatica-hackers-dan-10-dias-pago-n5390639 |
+| 313 | Diario Clarín | Ransomware: Ministerio de Salud de la Nación | Spanish | https://www.clarin.com/tecnologia/cibercriminales-aseguran-tener-datos-sensibles-ministerio-salud-dan-plazo-publicarlos_0_Vy5czMKn2o.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
