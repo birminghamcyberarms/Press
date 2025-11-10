@@ -329,7 +329,8 @@
 | 312 | Telenoche | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.telenoche.com.uy/nacionales/banco-hipotecario-extorsion-informatica-hackers-dan-10-dias-pago-n5390639 |
 | 313 | Diario Clarín | Ransomware: Ministerio de Salud de la Nación | Spanish | https://www.clarin.com/tecnologia/cibercriminales-aseguran-tener-datos-sensibles-ministerio-salud-dan-plazo-publicarlos_0_Vy5czMKn2o.html |
 | 314 | El Observador | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/esta-es-la-informacion-hackeada-al-bhu-el-ciberataque-n6020649 |
-|315 | Debate UY | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.debate.com.uy/actualidad/el-ataque-que-expuso-las-entranas-del-bhu-20251015-0025.html |
+| 315 | Debate UY | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.debate.com.uy/actualidad/el-ataque-que-expuso-las-entranas-del-bhu-20251015-0025.html |
+| 316 | El Diario AR | Research: Black Hat SEO | Spanish | https://www.eldiarioar.com/unidad-de-investigacion/funciona-maniobra-seo-poisonin-utilizada-tapar-denuncias-abuso-sexual-jinete-fraschina_1_12753779.html |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
