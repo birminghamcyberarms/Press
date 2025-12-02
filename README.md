@@ -331,6 +331,9 @@
 | 314 | El Observador | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/esta-es-la-informacion-hackeada-al-bhu-el-ciberataque-n6020649 |
 | 315 | Debate UY | Ransomware: Banco Hipotecario del Uruguay | Spanish | https://www.debate.com.uy/actualidad/el-ataque-que-expuso-las-entranas-del-bhu-20251015-0025.html |
 | 316 | El Diario AR | Research: Black Hat SEO | Spanish | https://www.eldiarioar.com/unidad-de-investigacion/funciona-maniobra-seo-poisonin-utilizada-tapar-denuncias-abuso-sexual-jinete-fraschina_1_12753779.html |
+| 317 | Bleeping Computer | Recording Famous Chollima | English | https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/ |
+| 318 | The Hacker News | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
+
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
