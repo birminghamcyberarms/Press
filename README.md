@@ -334,6 +334,7 @@
 | 317 | Bleeping Computer | Recording Famous Chollima | English | https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/ |
 | 318 | The Hacker News | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
 | 319 | Security Affairs | Recording Famous Chollima | English | https://securityaffairs.com/185271/hacking/researchers-spotted-lazaruss-remote-it-workers-in-action.html |
+| 320 | ANYRUN | Recording Famous Chollima | English | https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/ |
 
 
 ### Scientific Mentions
