@@ -335,7 +335,8 @@
 | 318 | The Hacker News | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
 | 319 | Security Affairs | Recording Famous Chollima | English | https://securityaffairs.com/185271/hacking/researchers-spotted-lazaruss-remote-it-workers-in-action.html |
 | 320 | ANYRUN | Recording Famous Chollima | English | https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/ |
-
+| 321 | BitGet | Recording Famous Chollima | English | https://www.bitget.com/es-ES/news/detail/12560605095868 |
+| 322 | Crypto Slate | Recording Famous Chollima | English | https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
