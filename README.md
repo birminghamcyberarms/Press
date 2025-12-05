@@ -337,6 +337,9 @@
 | 320 | ANYRUN | Recording Famous Chollima | English | https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/ |
 | 321 | BitGet | Recording Famous Chollima | English | https://www.bitget.com/es-ES/news/detail/12560605095868 |
 | 322 | Crypto Slate | Recording Famous Chollima | English | https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/ |
+| 323 | Cyber Security News | Recording Famous Chollima | English | https://cybersecuritynews.com/lazarus-groups-it-workers/ |
+| 324 | SC News | Recording Famous Chollima | English | https://www.scworld.com/brief/north-korean-it-worker-recruitment-tactics-exposed |
+
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
