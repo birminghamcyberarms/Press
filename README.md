@@ -342,6 +342,8 @@
 | 325 | El Observador | Recording Famous Chollima | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hacker-argentino-uruguayo-se-infiltro-ciberatacantes-corea-del-norte-y-expuso-como-tratan-estafar-personas-n6027039 |
 | 326 | Rocket Boys | Recording Famous Chollima | Japanese | https://rocket-boys.co.jp/security-measures-lab/north-korean-it-workers-infiltrate-firms-steal-pay-and-data/ |
 | 327 | La Opinión Semanario | Recording Famous Chollima | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-y-la-ciberdelincuencia-asi-desbarato-una-modalidad-delictiva-de-un-grupo-norcoreano |
+| 328 | Periferia | Ransomware: IBR Conicet | Spanish | https://periferia.com.ar/politica-cientifica/denuncian-un-cyberataque-internacional-contra-uno-de-los-institutos-mas-emblematicos-del-conicet/ |
+| 329 | El Estratégico | Ransomware: IBR Conicet | Spanish | https://www.elestrategico.com/2026/02/27/reportan-un-nuevo-hackeo-en-el-conicet/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
