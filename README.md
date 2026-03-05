@@ -344,6 +344,7 @@
 | 327 | La Opinión Semanario | Recording Famous Chollima | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-y-la-ciberdelincuencia-asi-desbarato-una-modalidad-delictiva-de-un-grupo-norcoreano |
 | 328 | Periferia | Ransomware: IBR Conicet | Spanish | https://periferia.com.ar/politica-cientifica/denuncian-un-cyberataque-internacional-contra-uno-de-los-institutos-mas-emblematicos-del-conicet/ |
 | 329 | El Estratégico | Ransomware: IBR Conicet | Spanish | https://www.elestrategico.com/2026/02/27/reportan-un-nuevo-hackeo-en-el-conicet/ |
+| 330 | C5N | Ransomware: IBR Conicet | Spanish | https://www.c5n.com/tecnologia/ciberataque-al-conicet-una-agrupacion-criminal-amenaza-filtrar-datos-n231386 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
