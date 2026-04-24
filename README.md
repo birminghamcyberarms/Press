@@ -345,6 +345,25 @@
 | 328 | Periferia | Ransomware: IBR Conicet | Spanish | https://periferia.com.ar/politica-cientifica/denuncian-un-cyberataque-internacional-contra-uno-de-los-institutos-mas-emblematicos-del-conicet/ |
 | 329 | El Estratégico | Ransomware: IBR Conicet | Spanish | https://www.elestrategico.com/2026/02/27/reportan-un-nuevo-hackeo-en-el-conicet/ |
 | 330 | C5N | Ransomware: IBR Conicet | Spanish | https://www.c5n.com/tecnologia/ciberataque-al-conicet-una-agrupacion-criminal-amenaza-filtrar-datos-n231386 |
+| 331 | El Observador | Deepfakes en México | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/deepfakes-la-presidenta-mexico-y-un-numero-uruguayo-la-historia-detras-la-millonaria-estafa-cripto-que-freno-un-hacker-n6034431 |
+| 332 | C5N | Ransomware: IBR Conicet | Spanish | https://www.c5n.com/tecnologia/ciberataque-al-conicet-una-agrupacion-criminal-amenaza-filtrar-datos-n231386 |
+| 333 | El Observador | Mythos & BSD | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/nadie-las-habia-visto-el-investigador-que-ayuda-mantener-los-sistemas-mas-seguros-del-mundo-y-quedo-sorprendido-la-nueva-ia-anthropic-n6040598 |
+| 334 | CoinDesk | About Mach-O Man | English | https://www.coindesk.com/tech/2026/04/22/lazarus-group-has-become-especially-dangerous-with-new-mach-o-man-attack-certik |
+| 335 | IBM X-Force | About Mach-O Man | English | https://exchange.xforce.ibmcloud.com/osint/guid:cca0ed6f234546848ad6fb086809d6d5 |
+| 336 | Bankless Times | About Mach-O Man | English | https://www.banklesstimes.com/articles/2026/04/22/lazarus-unleashes-mach-o-man-macos-malware-on-crypto-and-fintech/ |
+| 337 | CCN | About Mach-O Man | English | https://www.ccn.com/news/crypto/what-mach-o-man-new-lazarus-malware-targeting-crypto-and-fintech/ |
+| 338 | PA News | About Mach-O Man | Chinese | https://www.panewslab.com/zh-hant/articles/019db2fe-b7b8-779e-a437-aab6073a87f7 |
+| 339 | Binance | About Mach-O Man | English | https://www.binance.com/es/square/post/04-22-2026-north-korean-hacker-group-lazarus-releases-new-macos-malware-targeting-cryptocurrency-315121413306561 |
+| 340 | Security Week | About Mach-O Man | English | https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/ |
+| 341 | Bit Bank | About Mach-O Man | Chinese | https://bitbank.cc/knowledge/breaking/article/yp2xaoh_zkz |
+| 342 | Diario Bitcoin | About Mach-O Man | Spanish | https://www.diariobitcoin.com/noticias/grupo-de-hackers-norcoreano-lazarus-elevan-la-amenaza-con-nuevo-malware-para-mac/ |
+| 343 | Coin Telegraph | About Mach-O Man | English | https://cointelegraph.com/news/lazarus-group-malware-crypto-business-execs-macos |
+| 344 | Bitcoin News | About Mach-O Man | English | https://news.bitcoin.com/mach-o-man-malware-steals-macos-keychain-data-in-lazarus-group-crypto-campaign/ |
+| 345 | Trading View | About Mach-O Man | English | https://www.tradingview.com/news/cointelegraph:a1a81739e094b:0-lazarus-linked-macos-malware-hits-crypto-and-fintech-firms/ |
+| 346 | Ku Coin | About Mach-O Man | English | https://www.kucoin.com/news/flash/north-korean-lazarus-group-launches-macos-malware-attack-targeting-crypto-and-fintech-executives | 
+| 347 | Cripto Noticias | About Mach-O Man | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/especialistas-ciberseguridad-lazarus-hackeos-criptomonedas-macos/ |
+| 348 | Cybernews | About Mach-O Man | English | https://cybernews.com/security/north-korean-hackers-new-malware-foiled-by-researcher/ |
+| 349 | Dark News | Vercel vs ShinyHunters | Spanish | https://www.brodersendarknews.com/i/194792201/como-hackearon-a-vercel-el-acceso-por-un-proveedor-de-ia-la-pista-de-shinyhunters-y-la-version-de-un-pago-millonario |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
