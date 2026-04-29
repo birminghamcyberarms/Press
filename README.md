@@ -368,6 +368,8 @@
 | 351 | Diario Clarín | About Mach-O Man | Spanish | https://www.clarin.com/tecnologia/hackers-norcoreanos-apuntan-usuarios-apple-falsas-videollamadas-funciona-engano-malware-mach-o-man_0_lvlnBFpJlI.html |
 | 352 | NewsBit | About Mach-O Man | German | https://newsbit.de/neue-macos-malware-der-lazarus-gruppe-verbreitet-sich-ueber-gefaelschte-meetings/ |
 | 353 | GB Hackers | About Mach-O Man | English | https://gbhackers.com/lazarus-targets-macos-users/ |
+| 354 | El Observador | DataBreach: Organización del Futbol del Interior | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/filtraron-mas-7000-correos-privados-ofi-hay-carnes-ninos-expuestos-n6042269 |
+| 355 | Canal del Mar | DataBreach: Organización del Futbol del Interior | Spanish | https://cadenadelmar.uy/nacional/filtracion-en-ofi-publicaron-mas-de-7000-correos-electronicos-y-hay-carnets-de-ninos-expuestos-19387 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
