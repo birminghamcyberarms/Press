@@ -370,6 +370,7 @@
 | 353 | GB Hackers | About Mach-O Man | English | https://gbhackers.com/lazarus-targets-macos-users/ |
 | 354 | El Observador | DataBreach: Organización del Futbol del Interior | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/filtraron-mas-7000-correos-privados-ofi-hay-carnes-ninos-expuestos-n6042269 |
 | 355 | Canal del Mar | DataBreach: Organización del Futbol del Interior | Spanish | https://cadenadelmar.uy/nacional/filtracion-en-ofi-publicaron-mas-de-7000-correos-electronicos-y-hay-carnets-de-ninos-expuestos-19387 |
+| 356 | El Observador | Data Extortion: HG S.A | Spanish | https://www.elobservador.com.uy/ciberdelincuentes-filtran-accesos-servidores-una-empresa-antel-n6043757 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
