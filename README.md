@@ -373,6 +373,7 @@
 | 356 | El Observador | Data Extortion: HG S.A | Spanish | https://www.elobservador.com.uy/ciberdelincuentes-filtran-accesos-servidores-una-empresa-antel-n6043757 |
 | 357 | Telenoche | Data Extortion: HG S.A | Spanish | https://www.telenoche.com.uy/nacionales/ciberdelincuentes-pusieron-la-venta-datos-robados-una-empresa-subsidiaria-antel-n5399503 |
 | 358 | El Observador | Data Extortion: Ticket Antel | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtraron-1-gb-informacion-servidores-tickantel-como-afecta-los-usuarios-n6044143 |
+| 359 | El Observador | Ransomware: BHU | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/como-cambio-el-bhu-linea-el-ciberataque-que-tramites-ya-no-podes-hacer-n6044038 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
