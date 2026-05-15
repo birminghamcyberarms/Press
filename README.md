@@ -372,6 +372,7 @@
 | 355 | Canal del Mar | DataBreach: Organización del Futbol del Interior | Spanish | https://cadenadelmar.uy/nacional/filtracion-en-ofi-publicaron-mas-de-7000-correos-electronicos-y-hay-carnets-de-ninos-expuestos-19387 |
 | 356 | El Observador | Data Extortion: HG S.A | Spanish | https://www.elobservador.com.uy/ciberdelincuentes-filtran-accesos-servidores-una-empresa-antel-n6043757 |
 | 357 | Telenoche | Data Extortion: HG S.A | Spanish | https://www.telenoche.com.uy/nacionales/ciberdelincuentes-pusieron-la-venta-datos-robados-una-empresa-subsidiaria-antel-n5399503 |
+| 358 | El Observador | Data Extortion: Ticket Antel | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtraron-1-gb-informacion-servidores-tickantel-como-afecta-los-usuarios-n6044143 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
