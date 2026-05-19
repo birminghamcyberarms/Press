@@ -1,4 +1,4 @@
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/a22c41fa-ea21-49cf-8e02-85e7f496be71" />## About Birmingham Cyber Arms LTD
+## About Birmingham Cyber Arms LTD
 
 - 🦾 Offensive Security Hardware 
 - 🕵️‍♂️ Threat Intelligence 
