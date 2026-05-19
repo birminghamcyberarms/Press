@@ -1,4 +1,4 @@
-## About Birmingham Cyber Arms LTD
+<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/a22c41fa-ea21-49cf-8e02-85e7f496be71" />## About Birmingham Cyber Arms LTD
 
 - 🦾 Offensive Security Hardware 
 - 🕵️‍♂️ Threat Intelligence 
@@ -374,6 +374,7 @@
 | 357 | Telenoche | Data Extortion: HG S.A | Spanish | https://www.telenoche.com.uy/nacionales/ciberdelincuentes-pusieron-la-venta-datos-robados-una-empresa-subsidiaria-antel-n5399503 |
 | 358 | El Observador | Data Extortion: Ticket Antel | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtraron-1-gb-informacion-servidores-tickantel-como-afecta-los-usuarios-n6044143 |
 | 359 | El Observador | Ransomware: BHU | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/como-cambio-el-bhu-linea-el-ciberataque-que-tramites-ya-no-podes-hacer-n6044038 |
+| 360 | El Observador | Dossier: LaPampaLeaks | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/una-pelea-ciberatacantes-expone-la-identidad-del-presunto-lider-pampaleaks-n6044404 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
