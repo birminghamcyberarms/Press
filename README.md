@@ -375,6 +375,17 @@
 | 358 | El Observador | Data Extortion: Ticket Antel | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtraron-1-gb-informacion-servidores-tickantel-como-afecta-los-usuarios-n6044143 |
 | 359 | El Observador | Ransomware: BHU | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/como-cambio-el-bhu-linea-el-ciberataque-que-tramites-ya-no-podes-hacer-n6044038 |
 | 360 | El Observador | Dossier: LaPampaLeaks | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/una-pelea-ciberatacantes-expone-la-identidad-del-presunto-lider-pampaleaks-n6044404 |
+| 361 | **Forbes Uruguay** | El auge de los pagos digitales y la inteligencia artificial | Spanish | https://www.forbesuruguay.com/summit/el-auge-pagos-digitales-inteligencia-artificial-seis-claves-construir-confianza-era-tecnologia-n94777/amp |
+| 362 | Dark News | Sonreí, te estamos filmando | Spanish | https://www.brodersendarknews.com/p/sonrei-te-estamos-filmando-montaron |
+| 363 | Diario Clarín | Sonreí, te estamos filmando | Spanish | https://www.clarin.com/tecnologia/sonrei-filmando-infiltraron-red-trabajadores-norcoreanos-grabaron-mostraron-def-34_0_eC8IwXBh0A.html |
+| 364 | North Korea News | How a fake Crypto Startup lured North Korean IT Workers | English | https://www.nknews.org/pro/how-a-fake-crypto-startup-lured-north-korean-it-workers-into-a-trap/ |
+| 365 | Cryptoast | Smile, You're On Camera | French | https://cryptoast.fr/embauchent-hackers-nord-coreens-lazarus-fausse-start-up-defi/ |
+| 366 | **PC Mag** | Smile, You're On Camera | English | https://www.pcmag.com/news/researchers-create-fake-startup-to-dupe-north-koreans-looking-for-remote |
+| 367 | TradingView | Smile, You're On Camera | English | https://www.tradingview.com/news/cointelegraph:1948a59a3094b:0-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers/ |
+| 368 | TechFlow | Smile, You're On Camera | Chinese | https://www.techflowpost.com/newsletter/131727 |
+| 369 | ChainCatcher | Smile, You're On Camera | Chinese | https://www.chaincatcher.com/ja/article/2282315 |
+| 370 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html |
+| 371 | **CoinTelegraph** | Smile, You're On Camera | English | https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
