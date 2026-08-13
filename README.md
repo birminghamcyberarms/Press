@@ -386,6 +386,9 @@
 | 369 | ChainCatcher | Smile, You're On Camera | Chinese | https://www.chaincatcher.com/ja/article/2282315 |
 | 370 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html |
 | 371 | **CoinTelegraph** | Smile, You're On Camera | English | https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers |
+| 372 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/north-korean-remote-workers-are.html |
+| 373 | CryptoNews Australia | Smile, You're On Camera | English | https://cryptonews.com.au/news/reporter-poses-as-vc-to-expose-suspected-north-korean-crypto-operatives-134548/ |
+| 374 | BeInCrypto | Smile, You're On Camera | English | https://beincrypto.com/north-korean-workers-fake-startup-sting/ |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
