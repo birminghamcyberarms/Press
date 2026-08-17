@@ -389,6 +389,13 @@
 | 372 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/north-korean-remote-workers-are.html |
 | 373 | CryptoNews Australia | Smile, You're On Camera | English | https://cryptonews.com.au/news/reporter-poses-as-vc-to-expose-suspected-north-korean-crypto-operatives-134548/ |
 | 374 | BeInCrypto | Smile, You're On Camera | English | https://beincrypto.com/north-korean-workers-fake-startup-sting/ |
+| 375 | Ecosistema Startup | Smile, You're On Camera | Spanish | https://ecosistemastartup.com/startup-falsa-atrapa-a-desarrolladores-de-corea-del-norte/ |
+| 376 | Crypto Rank | Smile, You're On Camera | English | https://cryptorank.io/news/feed/144c6-north-korean-workers-fake-startup-sting |
+| 377 | Dev UA | Smile, You're On Camera | English | https://dev.ua/en/news/iak-kndr-shpyhuny-potrapliaiut-v-it-kompanii-ta-iak-ikh-vykryty-pered-naimom-1786623467 |
+| 378 | CyberSecurityNews | Smile, You're On Camera | English | https://cybersecuritynews.com/north-korean-it-workers-ai-forged-ids/ |
+| 379 | Rocket Boys | Smile, You're On Camera | Japanese | https://rocket-boys.co.jp/security-measures-lab/north-korea-it-worker-defi-honeypot/ |
+| 380 | DataNet Korea | Smile, You're On Camera | Korean | https://www.datanet.co.kr/news/articleView.html?idxno=213789 |
+| 381 | La Opinión | Smile, You're On Camera | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-el-hacker-sampedrino-que-se-infiltro-en-una-red-de-ciberespionaje-norcoreano |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
