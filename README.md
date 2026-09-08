@@ -397,6 +397,7 @@
 | 380 | DataNet Korea | Smile, You're On Camera | Korean | https://www.datanet.co.kr/news/articleView.html?idxno=213789 |
 | 381 | La Opinión | Smile, You're On Camera | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-el-hacker-sampedrino-que-se-infiltro-en-una-red-de-ciberespionaje-norcoreano |
 | 382 | Jayu Press | Smile, You're On Camera | Korean | https://www.jayupress.com/news/articleView.html?idxno=53775 |
+| 383 | El Observador | Gunra Ransomware | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackean-y-filtran-300-gb-informacion-un-estudio-juridico-y-contable-uruguayo-n6056459 |
 
 ### Scientific Mentions
 |#| Paper Title | Journal | Year | Link |
